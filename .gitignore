@@ -1,0 +1,20 @@
+# 构建输出
+build/
+
+# 用户词典数据库（每台机器不同）
+*.userdb/
+*.userdb.*
+*.userdb.txt
+*.userdb.kct.sync
+
+# 安装信息（包含机器唯一 ID）
+installation.yaml
+
+# 自动生成的构建时间戳
+user.yaml
+
+# 同步文件夹
+sync/
+
+# 日志
+*.log
