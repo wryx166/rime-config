@@ -6,3 +6,4 @@ customization:
   rime_version: 1.13.1
 patch:
   "style/color_scheme": aqua
+  "style/inline_preedit": false
