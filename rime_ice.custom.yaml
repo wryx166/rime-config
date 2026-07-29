@@ -1,0 +1,4 @@
+patch:
+  # ── 词典 ──
+  # 使用自定义词典 rime_ice.custom.dict.yaml
+  translator/dictionary: rime_ice.custom

@@ -4,7 +4,13 @@ customization:
   generator: "Rime::SwitcherSettings"
   modified_time: "Fri Jul 24 22:47:15 2026"
   rime_version: 1.13.1
+
 patch:
+  # ── 方案列表 ──
+  # 仅启用雾凇拼音，按需在此添加其他方案
   schema_list:
     - {schema: rime_ice}
+
+  # ── 方案选单 ──
+  # 方案选单默认展开所有方案，设为 false 可折叠
   switcher/fold_options: false
