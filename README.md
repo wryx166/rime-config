@@ -32,8 +32,11 @@ node scripts/deploy-rime.mjs --pull-words --deploy
 
 ### 保护文件
 
-目标目录中的 `installation.yaml`、`user.yaml`、`build/`、`*.userdb`、`*.gram` 以及
+目标目录中的 `installation.yaml`、`user.yaml`、`build/`、`*.userdb`、`*.gram`、`.git/` 以及
 `lua/cold_word_drop/` 下的词表文件（见下）在部署时不会被覆盖，也不会被清理。
+
+`.git/` 也在保护之列：目标目录本身可能就是个仓库，清理阶段递归进去会把源仓库没有的
+git 对象删掉。拷贝阶段已排除它，清理阶段同样跳过。
 
 ## 冷词丢弃模块（lua/cold_word_drop/）
 

@@ -80,8 +80,13 @@ function detectWeaselDeployer() {
 
 /* ── 保护文件 ─────────────────────────────── */
 
-/** 目标端已存在时跳过（保留用户本地数据/自动生成的文件） */
-const PROTECTED = new Set(["installation.yaml", "user.yaml", "build"]);
+/**
+ * 目标端已存在时跳过（保留用户本地数据/自动生成的文件）。
+ * .git：目标目录可能自己就是个仓库（如 %APPDATA%\Rime）。清理阶段若递归进去，
+ * 会把源仓库没有的对象/ref 当作"源已删除"删掉，损坏那个仓库。拷贝阶段本来就
+ * 排除它（见 main 中收集根目录条目的地方），这里补上让两边一致。
+ */
+const PROTECTED = new Set(["installation.yaml", "user.yaml", "build", ".git"]);
 
 /** 判断条目是否受保护（精确匹配或通配模式） */
 function isProtected(entry) {
