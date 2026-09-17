@@ -1,0 +1,2013 @@
+---
+name: 明日方舟：终末地
+version: "1.0"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+阿伯莉采石场	a bo li cai shi chang	1
+阿伯莉传感芯片	a bo li chuan gan xin pian	1
+阿伯莉轻甲	a bo li qing jia	1
+阿伯莉手甲	a bo li shou jia	1
+阿伯莉遗声	a bo li yi sheng	1
+阿伯莉照明器	a bo li zhao ming qi	1
+阿伯莉侦听芯片	a bo li zhen ting xin pian	1
+阿伯莉重甲	a bo li zhong jia	1
+阿伯莉紫光灯	a bo li zi guang deng	1
+阿达克利斯	a da ke li si	1
+阿达希尔	a da xi er	1
+阿戈尔	a ge er	1
+阿莱克琉斯	a lai ke liu si	1
+阿丽娅	a li ya	1
+阿列什	a lie shen	1
+阿纳萨	a na sa	1
+阿纳缇	a na ti	1
+阿斯兰	a si lan	1
+艾尔黛拉	ai er dai la	1
+埃拉菲亚	ai la fei ya	1
+艾莱扎柯林斯	ai lai zha ke lin si	1
+爱呐喊和原型机	ai na han he yuan xing ji	1
+埃特拉	ai te la	1
+艾维文娜	ai wei wen na	1
+岸边石窟	an bian shi ku	1
+安德烈	an de lie	1
+安格鲁	an ge lu	1
+暗管	an guan	1
+暗管出口	an guan chu kou	1
+暗管入口	an guan ru kou	1
+岸窟营地	an ku ying di	1
+安努拉	an nu la	1
+黯色火炬	an se huo ju	1
+黯石	an shi	1
+黯石子簇	an shi zi cu	1
+安思园	an si yuan	1
+安塔尔	an ta er	1
+黯银柑实	an yin gan shi	1
+昂扬	ang yang	1
+奥佩罗	ao pei luo	1
+白垩界卫	bai e jie wei	1
+拜访好友	bai fang hao you	1
+白水鉴心	bai shui jian xin	1
+百相仪	bai xiang yi	1
+百眼彪兽	bai yan biao shou	1
+百叶箱	bai ye xiang	1
+白夜新星	bai ye xin xing	1
+百战成钢	bai zhan cheng gang	1
+暴风雪地带	bao feng xue di dai	1
+包裹	bao guo	1
+饱和性防御	bao he xing fang yu	1
+暴击率	bao ji lv	1
+爆辣焗烤源石虫	bao la ju kao yuan shi chong	1
+爆辣腌渍水果	bao la yan zi shui guo	1
+爆裂手雷	bao lie shou lei	1
+爆破单元	bao po dan yuan	1
+暴雨铳械塔	bao yu chong xie ta	1
+爆炸式喷发	bao zha shi pen fa	1
+爆炸物	bao zha wu	1
+保障配额	bao zhang pei e	1
+背包	bei bao	1
+背包与仓库	bei bao yu cang ku	1
+北部禁区	bei bu jin qu	1
+北谷浮崖	bei gu fu ya	1
+北观禁土	bei guan jin tu	1
+备用电源	bei yong dian yuan	1
+奔腾的多利	ben teng de duo li	1
+本质瓦解	ben zhi wa jie	1
+迸发	beng fa	1
+蹦你脑壳	beng ni nao ke	1
+崩碎斧刃	beng sui fu ren	1
+庇护	bi hu	1
+比肩传送	bi jian chuan song	1
+笔尖的世界	bi jian de shi jie	1
+闭锁序列	bi suo xu lie	1
+编队	bian dui	1
+便捷存取站	bian jie cun qu zhan	1
+便携工具	bian xie gong ju	1
+便携源石矿机	bian xie yuan shi kuang ji	1
+边缘林地	bian yuan lin di	1
+彪兽的长绒	biao shou de chang rong	1
+彪兽源石虫	biao shou yuan shi chong	1
+表象	biao xiang	1
+别礼	bie li	1
+冰冰弹	bing bing dan	1
+冰点	bing dian	1
+冰凉的间隙	bing liang de jian xi	1
+冰淇淋熔炉	bing qi lin rong lu	1
+丙型天师桩	bing xing tian shi zhuang	1
+冰灾应对专家	bing zai ying dui zhuan jia	1
+布道自由	bu dao zi you	1
+不动心	bu dong xin	1
+不归林	bu gui lin	1
+不落坚城	bu luo jian cheng	1
+不屈心锚	bu qu xin mao	1
+不屈阵线	bu qu zhen xian	1
+不稳定表象	bu wen ding biao xiang	1
+不息	bu xi	1
+不息巡行	bu xi xun xing	1
+不懈	bu xie	1
+不知归	bu zhi gui	1
+财宝储备	cai bao chu bei	1
+踩道	cai dao	1
+采购中心	cai gou zhong xin	1
+采集材料	cai ji cai liao	1
+采集资源	cai ji zi yuan	1
+材料储备室	cai liao chu bei shi	1
+材料收集奖章	cai liao shou ji jiang zhang	1
+材料研究所	cai liao yan jiu suo	1
+采石场电梯钥匙卡	cai shi chang dian ti yao shi ka	1
+采石场入口	cai shi chang ru kou	1
+采石作业区	cai shi zuo ye qu	1
+采种机	cai zhong ji	1
+残暴	can bao	1
+残暴原生钳兽	can bao yuan sheng qian shou	1
+残破的药物箱子	can po de yao wu xiang zi	1
+残心节奏	can xin jie zou	1
+残影露滴	can ying lu di	1
+苍白的溃灭	cang bai de kui mie	1
+仓储节点	cang chu jie dian	1
+藏剑谷	cang jian gu	1
+仓库存货口	cang ku cun huo kou	1
+仓库存取线基段	cang ku cun qu xian ji duan	1
+仓库存取线源桩	cang ku cun qu xian yuan zhuang	1
+仓库取货口	cang ku qu huo kou	1
+沧溟星梦	cang ming xing meng	1
+苍山藏器	cang shan cang qi	1
+舱室升级	cang shi sheng ji	1
+沧贼	cang zei	1
+草编天使	cao bian tian shi	1
+草莓可丽饼	cao mei ke li bing	1
+草籽干粉	cao zi gan fen	1
+测试区	ce shi qu	1
+测试区深处	ce shi qu shen chu	1
+测试型重甲	ce shi xing zhong jia	1
+叄型	cen xing	1
+叉车	cha che	1
+刹那	cha na	1
+拆解机	chai jie ji	1
+长柄武器	chang bing wu qi	1
+尝尝咸淡	chang chang xian dan	1
+长耳兽	chang er shou	1
+长耳兽的邀请	chang er shou de yao qing	1
+长距滑索架	chang ju hua suo jia	1
+长路	chang lu	1
+长明	chang ming	1
+长息	chang xi	1
+长息辅助臂	chang xi fu zhu bi	1
+长息裹手	chang xi guo shou	1
+长息护手	chang xi hu shou	1
+长息加固板	chang xi jia gu ban	1
+长息轻装甲	chang xi qing zhuang jia	1
+长息手套	chang xi shou tao	1
+长息蓄电核	chang xi xu dian he	1
+长息装甲	chang xi zhuang jia	1
+常相伴	chang xiang ban	1
+长效导流	chang xiao dao liu	1
+超距辉映管	chao ju hui ying guan	1
+潮流对谈	chao liu dui tan	1
+超频时刻	chao pin shi ke	1
+潮行天使	chao xing tian shi	1
+潮涌	chao yong	1
+潮涌手甲	chao yong shou jia	1
+超域试验场	chao yu shi yan chang	1
+沉沉掩水	chen chen yan shui	1
+沉浮	chen fu	1
+沉积晶石	chen ji jing shi	1
+沉积具象物	chen ji ju xiang wu	1
+沉积酸	chen ji suan	1
+沉降地带	chen jiang di dai	1
+陈列品	chen lie pin	1
+陈皮拌笋	chen pi ban sun	1
+陈千语	chen qian yu	1
+沉心静气	chen xin jing qi	1
+晨星的协奏曲	chen xing de xie zou qu	1
+晨星眺望之处	chen xing tiao wang zhi chu	1
+乘风	cheng feng	1
+乘风而行	cheng feng er xing	1
+城建馆	cheng jian guan	1
+城建区	cheng jian qu	1
+承天之佑	cheng tian zhi you	1
+城外荒地	cheng wai huang di	1
+诚挚告别	cheng zhi gao bie	1
+迟来的回信	chi lai de hui xin	1
+炽燃竞技大会	chi ran jing ji da hui	1
+赤铜粉末	chi tong fen mo	1
+赤铜块	chi tong kuai	1
+赤铜矿	chi tong kuang	1
+赤铜零件	chi tong ling jian	1
+赤铜耐压罐	chi tong nai ya guan	1
+赤铜瓶	chi tong ping	1
+赤铜溶液	chi tong rong ye	1
+赤铜装备原件	chi tong zhuang bei yuan jian	1
+笞心的问答	chi xin de wen da	1
+笞心习作	chi xin xi zuo	1
+赤缨	chi ying	1
+憧憬的起点	chong jing de qi dian	1
+冲浪大赛门票	chong lang da sai men piao	1
+充能轨道	chong neng gui dao	1
+充能球刺兽	chong neng qiu ci shou	1
+充气教授	chong qi jiao shou	1
+重燃测试作战	chong ran ce shi zuo zhan	1
+重燃誓约	chong ran shi yue	1
+虫肉	chong rou	1
+铳械改造	chong xie gai zao	1
+铳械塔	chong xie ta	1
+重装	chong zhuang	1
+重装信使	chong zhuang xin shi	1
+重装信使夹克	chong zhuang xin shi jia ke	1
+重装信使手电	chong zhuang xin shi shou dian	1
+重装信使手套	chong zhuang xin shi shou tao	1
+重装信使陀螺	chong zhuang xin shi tuo luo	1
+筹码加倍	chou ma jia bei	1
+筹谋	chou mou	1
+储备站	chu bei zhan	1
+储备站地下室	chu bei zhan di xia shi	1
+储备站二层	chu bei zhan er ceng	1
+储备站一层	chu bei zhan yi ceng	1
+初级认知载体	chu ji ren zhi zai ti	1
+初级作战记录	chu ji zuo zhan ji lu	1
+处决	chu jue	1
+储气罐	chu qi guan	1
+初始连接	chu shi lian jie	1
+储液罐	chu ye guan	1
+初绽霜花	chu zhan shuang hua	1
+初至武陵城	chu zhi wu ling cheng	1
+传递区	chuan di qu	1
+传递萤火虫	chuan di ying huo chong	1
+穿林箭	chuan lin jian	1
+传说的终点	chuan shuo de zhong dian	1
+传送带	chuan song dai	1
+醇化合物工厂	chun hua he wu gong chang	1
+纯晶多齿叶	chun jing duo chi ye	1
+纯晶多齿叶根茎	chun jing duo chi ye gen jing	1
+春景故人来	chun jing gu ren lai	1
+春雷醒物	chun lei xing wu	1
+纯真的心愿	chun zhen de xin yuan	1
+磁暴试验场	ci bao shi yan chang	1
+刺鼻干肉	ci bi gan rou	1
+淬火者	cui huo zhe	1
+淬剑荡	cui jian dang	1
+摧破	cui po	1
+脆弱	cui ruo	1
+催山将	cui shan jiang	1
+摧玉网格	cui yu wang ge	1
+存储存取	cun chu cun qu	1
+存料处	cun liao chu	1
+存续的痕迹	cun xu de hen ji	1
+存在的证明	cun zai de zheng ming	1
+大棒悬头	da bang xuan tou	1
+大当家盯着呢	da dang jia ding zhe ne	1
+大地的弃子	da di de qi zi	1
+达尔霍夫	da er huo fu	1
+大斧角	da fu jiao	1
+大浆	da jiang	1
+大角天使	da jiao tian shi	1
+大局已定	da ju yi ding	1
+大雷斑	da lei ban	1
+大鳞上钩	da lin shang gou	1
+大潘	da pan	1
+大瓶柑实冲剂	da ping gan shi chong ji	1
+大瓶荞复锭剂	da ping qiao fu ding ji	1
+大瓶芽针喷剂	da ping ya zhen pen ji	1
+大碗锦草凉茶	da wan jin cao liang cha	1
+待建舱室	dai jian cang shi	1
+待建设区	dai jian she qu	1
+待修缮区	dai xiu shan qu	1
+单手剑	dan shou jian	1
+档案库	dang an ku	1
+当家令如山	dang jia ling ru shan	1
+当家气魄	dang jia qi po	1
+荡浊身	dang zhuo shen	1
+倒地	dao di	1
+导电	dao dian	1
+导能肖像石	dao neng xiao xiang shi	1
+悼亡诗	dao wang shi	1
+德拉克	de la ke	1
+得闲	de xian	1
+等待乌啪	deng dai wu pa	1
+邓恩	deng en	1
+底部联通区	di bu lian tong qu	1
+涤尘专家	di chen zhuan jia	1
+嘀嗒充能	di da chong neng	1
+涤荡浊流	di dang zhuo liu	1
+帝江号	di jiang hao	1
+地区建设	di qu jian she	1
+地区建设系统	di qu jian she xi tong	1
+敌人蓄力与打断	di ren xu li yu da duan	1
+低容谷地电池	di rong gu di dian chi	1
+低容武陵电池	di rong wu ling dian chi	1
+第三废弃岩洞	di san fei qi yan dong	1
+地图	di tu	1
+低温脆性	di wen cui xing	1
+低温症	di wen zheng	1
+地下区域	di xia qu yu	1
+第一年的生日蛋糕	di yi nian de sheng ri dan gao	1
+电磁	dian ci	1
+电磁爆发	dian ci bao fa	1
+电磁附着	dian ci fu zhuo	1
+电磁伤害	dian ci shang hai	1
+典范	dian fan	1
+巅峰闹剧	dian feng nao ju	1
+点剑	dian jian	1
+点剑定位信标	dian jian ding wei xin biao	1
+点剑短刃	dian jian duan ren	1
+点剑火石	dian jian huo shi	1
+点剑轻装甲	dian jian qing zhuang jia	1
+点剑微型滤芯	dian jian wei xing lv xin	1
+点剑纤维护甲	dian jian xian wei hu jia	1
+点剑战术手甲	dian jian zhan shu shou jia	1
+点剑战术手套	dian jian zhan shu shou tao	1
+点剑重装甲	dian jian zhong zhuang jia	1
+电力供应	dian li gong ying	1
+电力装备	dian li zhuang bei	1
+电驱矿机	dian qu kuang ji	1
+颠勺	dian shao	1
+电信通信站	dian xin tong xin zhan	1
+电涌塔	dian yong ta	1
+钓鳞高手	diao lin gao shou	1
+钓友	diao you	1
+吊运中枢	diao yun zhong shu	1
+吊运装置终端	diao yun zhuang zhi zhong duan	1
+吊装辅助	diao zhuang fu zhu	1
+钉刺天使	ding ci tian shi	1
+顶天梁	ding tian liang	1
+东部通道	dong bu tong dao	1
+东谷遗迹	dong gu yi ji	1
+动火用	dong huo yong	1
+动火用测温镜	dong huo yong ce wen jing	1
+动火用储能匣	dong huo yong chu neng xia	1
+动火用电力匣	dong huo yong dian li xia	1
+动火用辅助骨骼	dong huo yong fu zhu gu ge	1
+动火用隔温板	dong huo yong ge wen ban	1
+动火用护手	dong huo yong hu shou	1
+动火用手甲	dong huo yong shou jia	1
+动火用手套	dong huo yong shou tao	1
+动火用外骨骼	dong huo yong wai gu ge	1
+冻结	dong jie	1
+动态侵蚀	dong tai qin shi	1
+冻土坚盾	dong tu jian dun	1
+镀红祝福	du hong zhu fu	1
+独狼	du lang	1
+杜林	du lin	1
+独门射击法	du men she ji fa	1
+读心技巧	du xin ji qiao	1
+毒沼	du zhao	1
+断云叟	duan yun sou	1
+断瘴廊	duan zhang lang	1
+炖肉会议	dun rou hui yi	1
+盾卫旗队上前	dun wei qi dui shang qian	1
+顿悟	dun wu	1
+多齿叶	duo chi ye	1
+多齿叶根茎	duo chi ye gen jing	1
+多重连射	duo chong lian she	1
+多重战备	duo chong zhan bei	1
+多口暗管出口	duo kou an guan chu kou	1
+多口暗管入口	duo kou an guan ru kou	1
+多利先生	duo li xian sheng	1
+惰气	duo qi	1
+多维禁锢奖章	duo wei jin gu jiang zhang	1
+惰性壤晶废液	duo xing rang jing fei ye	1
+惰性使然	duo xing shi ran	1
+额外特训	e wai te xun	1
+恩威并施	en wei bing shi	1
+二号丙型辅桩区	er hao bing xing fu zhuang qu	1
+二色环流灯	er se huan liu deng	1
+二色仪	er se yi	1
+贰型	er xing	1
+二型电驱矿机	er xing dian qu kuang ji	1
+二型耐酸水泵	er xing nai suan shui beng	1
+法比安柯林斯	fa bi an ke lin si	1
+返还技力	fan huan ji li	1
+贩售机	fan shou ji	1
+反应池	fan ying chi	1
+放低预期	fang di yu qi	1
+仿荤烩荞花	fang hun hui qiao hua	1
+仿生刺天使	fang sheng ci tian shi	1
+方兴纪念	fang xing ji nian	1
+方兴衢	fang xing qu	1
+防御激光	fang yu ji guang	1
+菲奥娜	fei ao na	1
+非常规路亚	fei chang gui lu ya	1
+非惯性微笑	fei guan xing wei xiao	1
+废料堆放区	fei liao dui fang qu	1
+菲林	fei lin	1
+废弃偏楼	fei qi pian lou	1
+废弃小径	fei qi xiao jing	1
+废水处理机	fei shui chu li ji	1
+沸腾	fei teng	1
+沸腾狼血	fei teng lang xue	1
+沸血	fei xue	1
+非正常移动	fei zheng chang yi dong	1
+分布式拒绝服务	fen bu shi ju jue fu wu	1
+分离芯	fen li xin	1
+分流器	fen liu qi	1
+焚灭	fen mie	1
+忿怒相	fen nu xiang	1
+粉碎	fen sui	1
+粉碎机	fen sui ji	1
+粉碎阵线	fen sui zhen xian	1
+焚雾源石虫	fen wu yuan shi chong	1
+分享欲	fen xiang yu	1
+风暴中的孩子	feng bao zhong de hai zi	1
+疯狂钓组	feng kuang diao zu	1
+烽燧台	feng sui tai	1
+烽燧桩	feng sui zhuang	1
+丰蹄	feng ti	1
+风云之变	feng yun zhi bian	1
+封装机	feng zhuang ji	1
+伏击射手	fu ji she shou	1
+斧甲兽	fu jia shou	1
+俯瞰模式	fu kan mo shi	1
+浮空回收器	fu kong hui shou qi	1
+浮空回收装置	fu kong hui shou zhuang zhi	1
+伏魔	fu mo	1
+复燃	fu ran	1
+腐蚀	fu shi	1
+附术	fu shu	1
+附术瓶	fu shu ping	1
+附术铁瓶	fu shu tie ping	1
+扶摇	fu yao	1
+辅助	fu zhu	1
+干杯	gan bei	1
+肝胆相照	gan dan xiang zhao	1
+柑实	gan shi	1
+柑实冲剂	gan shi chong ji	1
+柑实粉末	gan shi fen mo	1
+柑实罐头	gan shi guan tou	1
+柑实田块	gan shi tian kuai	1
+柑实种子	gan shi zhong zi	1
+感应开关	gan ying kai guan	1
+干员教学奖章	gan yuan jiao xue jiang zhang	1
+干员进驻	gan yuan jin zhu	1
+干员礼物	gan yuan li wu	1
+干员联络奖章	gan yuan lian luo jiang zhang	1
+干员联络台	gan yuan lian luo tai	1
+干员潜能	gan yuan qian neng	1
+干员升级	gan yuan sheng ji	1
+干员信赖度	gan yuan xin lai du	1
+刚角天使	gang jiao tian shi	1
+钢块	gang kuai	1
+钢铁余音	gang tie yu yin	1
+刚性阻击	gang xing zu ji	1
+钢样品四	gang yang pin si	1
+钢制零件	gang zhi ling jian	1
+钢质瓶	gang zhi ping	1
+高爆榴弹塔	gao bao liu dan ta	1
+高地主路	gao di zhu lu	1
+高规格技术测试	gao gui ge ji shu ce shi	1
+高级航天建材	gao ji hang tian jian cai	1
+高级认知载体	gao ji ren zhi zai ti	1
+高级作战纪录	gao ji zuo zhan ji lu	1
+高阶培养奖章	gao jie pei yang jiang zhang	1
+高阶培养自选箱	gao jie pei yang zi xuan xiang	1
+高晶粉末	gao jing fen mo	1
+高晶零件	gao jing ling jian	1
+高晶纤维	gao jing xian wei	1
+高晶质瓶	gao jing zhi ping	1
+高晶装备原件	gao jing zhuang bei yuan jian	1
+高能射线塔	gao neng she xian ta	1
+高能异香石	gao neng yi xiang shi	1
+高热拦截	gao re lan jie	1
+高容谷地电池	gao rong gu di dian chi	1
+高山仰止	gao shan yang zhi	1
+高危材料研究所	gao wei cai liao yan jiu suo	1
+高效派送	gao xiao pai song	1
+高压阻拦网	gao ya zu lan wang	1
+隔离区岔路	ge li qu cha lu	1
+歌谣	ge yao	1
+割云翁	ge yun weng	1
+根脉奇境	gen mai qi jing	1
+供电终端	gong dian zhong duan	1
+供电桩	gong dian zhuang	1
+供电桩输电	gong dian zhuang shu dian	1
+功能道具	gong neng dao ju	1
+供能高地	gong neng gao di	1
+功能设备	gong neng she bei	1
+工人休息站	gong ren xiu xi zhan	1
+工人之家	gong ren zhi jia	1
+共享设备	gong xiang she bei	1
+工业爆炸物	gong ye bao zha wu	1
+工业产物	gong ye chan wu	1
+工业发展规划	gong ye fa zhan gui hua	1
+工业化迷宫	gong ye hua mi gong	1
+工业零点一	gong ye ling dian yi	1
+工业模式	gong ye mo shi	1
+构成序列	gou cheng xu lie	1
+勾芡	gou qian	1
+谷地储藏家奖章	gu di chu cang jia jiang zhang	1
+谷地电池	gu di dian chi	1
+谷地调查者奖章	gu di diao cha zhe jiang zhang	1
+谷地调度券	gu di diao du quan	1
+谷地工业先驱奖章	gu di gong ye xian qu jiang zhang	1
+谷地据点开拓奖章	gu di ju dian kai tuo jiang zhang	1
+谷地刻写券	gu di ke xie quan	1
+谷底秘库	gu di mi ku	1
+谷地通道	gu di tong dao	1
+谷地馅饼	gu di xian bing	1
+谷地像差	gu di xiang cha	1
+谷地要塞	gu di yao sai	1
+谷地中转站	gu di zhong zhuan zhan	1
+孤喉泽	gu hou ze	1
+古剑崖	gu jian ya	1
+固气转化机	gu qi zhuan hua ji	1
+古渠	gu qu	1
+故障机器人	gu zhang ji qi ren	1
+孤舟	gu zhou	1
+怪味纸杯蛋糕	guai wei zhi bei dan gao	1
+关闭裂隙	guan bi lie xi	1
+观测站	guan ce zhan	1
+管道分流器	guan dao fen liu qi	1
+管道汇流器	guan dao hui liu qi	1
+管道桥	guan dao qiao	1
+管道准入口	guan dao zhun ru kou	1
+观海	guan hai	1
+冠军钻探器	guan jun zuan tan qi	1
+管理员	guan li yuan	1
+灌装机	guan zhuang ji	1
+光荣记忆	guang rong ji yi	1
+光荣之路	guang rong zhi lu	1
+轨道激流	gui dao ji liu	1
+轨道羽兽翅	gui dao yu shou chi	1
+桂花米糕	gui hua mi gao	1
+归家	gui jia	1
+归穹宇	gui qiong yu	1
+规则边缘	gui ze bian yuan	1
+归枝	gui zhi	1
+贵重品库	gui zhong pin ku	1
+滚刀切	gun dao qie	1
+滚石	gun shi	1
+过活跃动态侵蚀	guo huo yue dong tai qin shi	1
+过热蒸汽	guo re zheng qi	1
+过堂风	guo tang feng	1
+寒风再起	han feng zai qi	1
+寒冷	han leng	1
+寒冷爆发	han leng bao fa	1
+寒冷附着	han leng fu zhuo	1
+寒冷伤害	han leng shang hai	1
+含羞草	han xiu cao	1
+好友	hao you	1
+合成制造	he cheng zhi zao	1
+和合四象	he he si xiang	1
+合金萝卜城	he jin luo bo cheng	1
+赫拉芬格	he la fen ge	1
+河流的女儿	he liu de nv er	1
+河水助我	he shui zhu wo	1
+赫铜	he tong	1
+赫铜块	he tong kuai	1
+赫铜零件	he tong ling jian	1
+赫铜瓶	he tong ping	1
+赫铜溶液	he tong rong ye	1
+赫铜装备原件	he tong zhuang bei yuan jian	1
+核心降落	he xin jiang luo	1
+洪波	hong bo	1
+轰击序列	hong ji xu lie	1
+轰雷挚电	hong lei zhi dian	1
+红茅叶	hong mao ye	1
+红茅叶根茎	hong mao ye gen jing	1
+轰鸣喜乐	hong ming xi le	1
+红骑士	hong qi shi	1
+宏山科学院	hong shan ke xue yuan	1
+宏愿	hong yuan	1
+宏运连连乐	hong yun lian lian le	1
+红柱状菌	hong zhu zhuang jun	1
+红柱状菌块	hong zhu zhuang jun kuai	1
+后翼易位	hou yi yi wei	1
+护盾	hu dun	1
+呼风唤浪	hu feng huan lang	1
+弧光	hu guang	1
+虎牢关	hu lao guan	1
+弧线两千模型	hu xian liang qian mo xing	1
+呼啸守卫	hu xiao shou wei	1
+湖心岛	hu xin dao	1
+狐月旋刃	hu yue xuan ren	1
+化剑	hua jian	1
+滑索架	hua suo jia	1
+环境监测	huan jing jian ce	1
+环境监测奖章	huan jing jian ce jiang zhang	1
+缓速	huan su	1
+环塔商会	huan ta shang hui	1
+幻想苦痛	huan xiang ku tong	1
+焕新月卡	huan xin yue ka	1
+黄昏	huang hun	1
+黄金时代	huang jin shi dai	1
+荒野的徒从	huang ye de tu cong	1
+荒野游人	huang ye you ren	1
+灰度发布	hui du fa bu	1
+挥杆日	hui gan ri	1
+回归的噩兆	hui gui de e zhao	1
+会客室	hui ke shi	1
+汇流器	hui liu qi	1
+灰芦麦	hui lu mai	1
+灰芦麦田块	hui lu mai tian kuai	1
+灰芦麦种子	hui lu mai zhong zi	1
+回眸	hui mou	1
+毁伤序列	hui shang xu lie	1
+回水洞	hui shui dong	1
+回响秘剂	hui xiang mi ji	1
+会移动的荷叶	hui yi dong de he ye	1
+活动翘板	huo dong qiao ban	1
+火山蘑菇云	huo shan mo gu yun	1
+火山蒸汽	huo shan zheng qi	1
+火雾源石虫	huo wu yuan shi chong	1
+货物运送奖章	huo wu yun song jiang zhang	1
+火与剑	huo yu jian	1
+货运平台	huo yun ping tai	1
+活着的旗帜	huo zhe de qi zhi	1
+活着就是胜利	huo zhe jiu shi sheng li	1
+基本挥杆法	ji ben hui gan fa	1
+集成工业研究所	ji cheng gong ye yan jiu suo	1
+集成工业研究所顶楼	ji cheng gong ye yan jiu suo ding lou	1
+集成工业研究所二楼	ji cheng gong ye yan jiu suo er lou	1
+集成核心区域	ji cheng he xin qu yu	1
+集成化合金板	ji cheng hua he jin ban	1
+集成化轻甲	ji cheng hua qing jia	1
+集成化轻甲片	ji cheng hua qing jia pian	1
+集成化手甲	ji cheng hua shou jia	1
+集成化陶瓷板	ji cheng hua tao ci ban	1
+集成化战术手套	ji cheng hua zhan shu shou tao	1
+集成化重甲	ji cheng hua zhong jia	1
+集成化重甲片	ji cheng hua zhong jia pian	1
+集成配额	ji cheng pei e	1
+集成轻型	ji cheng qing xing	1
+集成实训	ji cheng shi xun	1
+集成实训缠带	ji cheng shi xun chan dai	1
+集成实训钢甲	ji cheng shi xun gang jia	1
+集成实训护甲	ji cheng shi xun hu jia	1
+集成实训护手	ji cheng shi xun hu shou	1
+集成实训火种石	ji cheng shi xun huo zhong shi	1
+集成实训排障刀	ji cheng shi xun pai zhang dao	1
+集成实训手套	ji cheng shi xun shou tao	1
+集成实训胸甲	ji cheng shi xun xiong jia	1
+集成实训照明器	ji cheng shi xun zhao ming qi	1
+集成重型	ji cheng zhong xing	1
+基础攻击	ji chu gong ji	1
+基础工业点数	ji chu gong ye dian shu	1
+基础航天建材	ji chu hang tian jian cai	1
+基础生产	ji chu sheng chan	1
+基础拓展核心	ji chu tuo zhan he xin	1
+基础寻访凭证	ji chu xun fang ping zheng	1
+基础战术	ji chu zhan shu	1
+击打装置	ji da zhuang zhi	1
+极地救援	ji di jiu yuan	1
+基地区二层	ji di qu er ceng	1
+极地生存	ji di sheng cun	1
+极地生存指南	ji di sheng cun zhi nan	1
+疾电法	ji dian fa	1
+击飞	ji fei	1
+疾风迅雷	ji feng xun lei	1
+击股传虫	ji gu chuan chong	1
+机关柱	ji guan zhu	1
+基建前站	ji jian qian zhan	1
+技力	ji li	1
+激流塔	ji liu ta	1
+吉米尼	ji mi ni	1
+机密圣所	ji mi sheng suo	1
+技能提升奖章	ji neng ti sheng jiang zhang	1
+机巧专家	ji qiao zhuan jia	1
+及时维修	ji shi wei xiu	1
+即时协议闪链	ji shi xie yi shan lian	1
+即时压制	ji shi ya zhi	1
+技术开发区	ji shu kai fa qu	1
+技术生产办公室	ji shu sheng chan ban gong shi	1
+给水器	ji shui qi	1
+基特	ji te	1
+即兴发挥	ji xing fa hui	1
+即兴演出	ji xing yan chu	1
+技艺流转奖章	ji yi liu zhuan jiang zhang	1
+记忆网纸	ji yi wang zhi	1
+寂语修会	ji yu xiu hui	1
+基质	ji zhi	1
+基质蚀刻	ji zhi shi ke	1
+家传武学	jia chuan wu xue	1
+甲二型电荷	jia er xing dian he	1
+加料	jia liao	1
+坚城制造者	jian cheng zhi zao zhe	1
+监督重任	jian du zhong ren	1
+尖峰	jian feng	1
+歼灭协议	jian mie xie yi	1
+坚韧的水	jian ren de shui	1
+坚韧防线	jian ren fang xian	1
+建设规划区	jian she gui hua qu	1
+坚实后盾	jian shi hou dun	1
+见天河	jian tian he	1
+间歇性思考者	jian xie xing si kao zhe	1
+剑行拳意	jian xing quan yi	1
+剑以衬文	jian yi chen wen	1
+简易护服	jian yi hu fu	1
+简易护甲	jian yi hu jia	1
+简易护手	jian yi hu shou	1
+简易手甲	jian yi shou jia	1
+简易镇痛药膏	jian yi zhen tong yao gao	1
+简易制作系统	jian yi zhi zuo xi tong	1
+坚硬异香石	jian ying yi xiang shi	1
+剑语	jian yu	1
+简制手册	jian zhi shou ce	1
+将军	jiang jun	1
+交换电流	jiao huan dian liu	1
+教科书式猛攻	jiao ke shu shi meng gong	1
+教学记录	jiao xue ji lu	1
+洁尔佩塔	jie er pei ta	1
+截雷	jie lei	1
+界龙	jie long	1
+劫掠者	jie lue zhe	1
+界石坪	jie shi ping	1
+劫云客	jie yun ke	1
+节制准则	jie zhi zhun ze	1
+锦草	jin cao	1
+锦草粉末	jin cao fen mo	1
+锦草凉茶	jin cao liang cha	1
+锦草溶液	jin cao rong ye	1
+锦草软饮	jin cao ruan yin	1
+锦草田块	jin cao tian kuai	1
+锦草种子	jin cao zhong zi	1
+进军	jin jun	1
+劲力展露奖章	jin li zhan lu jiang zhang	1
+禁门	jin men	1
+进取剑锋	jin qu jian feng	1
+今日不设防	jin ri bu she fang	1
+金石稻	jin shi dao	1
+金石稻田块	jin shi dao tian kuai	1
+金石稻种子	jin shi dao zhong zi	1
+锦素炒饭	jin su chao fan	1
+近卫	jin wei	1
+浸雾大弩	jin wu da nu	1
+近崖草庭	jin ya cao ting	1
+禁止绑票	jin zhi bang piao	1
+荆刺芽针	jing ci ya zhen	1
+荆刺芽针粉末	jing ci ya zhen fen mo	1
+静候佳音	jing hou jia yin	1
+净化	jing hua	1
+晶化多齿叶	jing hua duo chi ye	1
+晶化多齿叶根茎	jing hua duo chi ye gen jing	1
+晶化硬币	jing hua ying bi	1
+荆棘破韧	jing ji po ren	1
+警戒区	jing jie qu	1
+精炼炉	jing lian lu	1
+精灵	jing ling	1
+净流涤尘	jing liu di chen	1
+精烹细作	jing peng xi zuo	1
+精锐伏击射手	jing rui fu ji she shou	1
+精锐劫掠者	jing rui jie lue zhe	1
+精锐撕裂牙兽	jing rui si lie ya shou	1
+精锐行刑人	jing rui xing xing ren	1
+警示投影	jing shi tou ying	1
+净水节点	jing shui jie dian	1
+晶体外壳	jing ti wai ke	1
+晶体外壳粉末	jing ti wai ke fen mo	1
+惊霆诀	jing ting jue	1
+经纬田区	jing wei tian qu	1
+精选柑实冲剂	jing xuan gan shi chong ji	1
+精选柑实罐头	jing xuan gan shi guan tou	1
+精选荞复锭剂	jing xuan qiao fu ding ji	1
+精选荞愈胶囊	jing xuan qiao yu jiao nang	1
+经验老到	jing yan lao dao	1
+精英化	jing ying hua	1
+警用	jing yong	1
+警用臂环	jing yong bi huan	1
+警用刺刃	jing yong ci ren	1
+警用工具组	jing yong gong ju zu	1
+警用护甲	jing yong hu jia	1
+警用瞄具	jing yong miao ju	1
+警用手环	jing yong shou huan	1
+警用手套	jing yong shou tao	1
+警用罩衣	jing yong zhao yi	1
+景玉谷	jing yu gu	1
+静滞核心	jing zhi he xin	1
+晶锥天使	jing zhui tian shi	1
+旧锋	jiu feng	1
+旧锋刺刃	jiu feng ci ren	1
+旧锋手甲	jiu feng shou jia	1
+旧锋装甲	jiu feng zhuang jia	1
+旧工厂区	jiu gong chang qu	1
+旧供水设施	jiu gong shui she shi	1
+旧矿区	jiu kuang qu	1
+旧式传送带	jiu shi chuan song dai	1
+酒水机	jiu shui ji	1
+旧宿舍区	jiu su she qu	1
+救星	jiu xing	1
+救援专家	jiu yuan zhuan jia	1
+聚宝窟	ju bao ku	1
+据点管理	ju dian guan li	1
+居民区	ju min qu	1
+巨山犼兽	ju shan hou shou	1
+巨兽心脏	ju shou xin zang	1
+桔萎荷叶	ju wei he ye	1
+踞渊北眺	ju yuan bei tiao	1
+矩阵位移	ju zhen wei yi	1
+绝不让步	jue bu rang bu	1
+绝心	jue xin	1
+绝影	jue ying	1
+骏卫	jun wei	1
+军械库	jun xie ku	1
+卡莉的墨绘集	ka li de mo hui ji	1
+卡莉的童话集	ka li de tong hua ji	1
+卡缪	ka miu	1
+卡普里尼	ka pu li ni	1
+卡契尔	ka qi er	1
+卡特斯	ka te si	1
+开工日肉汤	kai gong ri rou tang	1
+开怀	kai huai	1
+开天将	kai tian jiang	1
+开演日	kai yan ri	1
+看护之证	kan hu zhi zheng	1
+慷慨助力奖章	kang kai zhu li jiang zhang	1
+可爆破物	ke bao po wu	1
+科技连击	ke ji lian ji	1
+可控递归	ke kong di gui	1
+克劳	ke lao	1
+可食用巢雕	ke shi yong chao diao	1
+刻术瓶	ke shu ping	1
+刻术铁瓶	ke shu tie ping	1
+可用道具	ke yong dao ju	1
+控流节点	kong liu jie dian	1
+控制区	kong zhi qu	1
+库兰塔	ku lan ta	1
+苦难代偿	ku nan dai chang	1
+苦涩麦粉	ku se mai fen	1
+苦叶椒	ku ye jiao	1
+苦叶椒田块	ku ye jiao tian kuai	1
+苦叶椒种子	ku ye jiao zhong zi	1
+枯枝忿怒复归凋零	ku zhi fen nu fu gui diao ling	1
+快闪冲击	kuai shan chong ji	1
+快子遴捡晶格	kuai zi lin jian jing ge	1
+矿场传动轮	kuang chang chuan dong lun	1
+矿场防护服	kuang chang fang hu fu	1
+矿场护甲	kuang chang hu jia	1
+矿场护手	kuang chang hu shou	1
+矿场护腕	kuang chang hu wan	1
+矿场联络仪	kuang chang lian luo yi	1
+矿场滤尘衣	kuang chang lv chen yi	1
+矿场轻甲	kuang chang qing jia	1
+矿场手甲	kuang chang shou jia	1
+矿场手套	kuang chang shou tao	1
+矿场压缩核	kuang chang ya suo he	1
+矿场增压轮	kuang chang zeng ya lun	1
+矿脉通道	kuang mai tong dao	1
+矿脉源区	kuang mai yuan qu	1
+矿区缆车站	kuang qu lan che zhan	1
+矿区医疗站	kuang qu yi liao zhan	1
+矿区营地	kuang qu ying di	1
+矿区营地二层	kuang qu ying di er ceng	1
+矿区营地三层瞭望台	kuang qu ying di san ceng liao wang tai	1
+矿石	kuang shi	1
+扩容反应池	kuo rong fan ying chi	1
+扩容演算芯片	kuo rong yan suan xin pian	1
+扩张管理系统	kuo zhang guan li xi tong	1
+扩装铳械塔	kuo zhuang chong xie ta	1
+辣炒肉丁	la chao rou ding	1
+莱万汀	lai wan ting	1
+兰姆先生	lan mu xian sheng	1
+蓝铁粉末	lan tie fen mo	1
+蓝铁块	lan tie kuai	1
+蓝铁矿	lan tie kuang	1
+蓝铁瓶	lan tie ping	1
+蓝铁装备原件	lan tie zhuang bei yuan jian	1
+蓝图	lan tu	1
+浪潮	lang chao	1
+浪潮海石	lang chao hai shi	1
+狼群骨雕	lang qun gu diao	1
+狼群意志	lang qun yi zhi	1
+狼卫	lang wei	1
+狼之绯	lang zhi fei	1
+狼之怒	lang zhi nu	1
+雷枪疾袭	lei qiang ji xi	1
+雷枪截回	lei qiang jie hui	1
+雷枪决颤	lei qiang jue chan	1
+雷枪挚击	lei qiang zhi ji	1
+冷冻射手	leng dong she shou	1
+棱镜天使	leng jing tian shi	1
+冷面无情	leng mian wu qing	1
+冷却	leng que	1
+冷却脂	leng que zhi	1
+厉兵	li bing	1
+黎博利	li bo li	1
+黎风	li feng	1
+梨诺	li nuo	1
+离群之狼	li qun zhi lang	1
+利手成双	li shou cheng shuang	1
+理想的距离	li xiang de ju li	1
+理想热忱	li xiang re chen	1
+理性告别	li xing gao bie	1
+理智	li zhi	1
+理智萃取器	li zhi cui qu qi	1
+理智消耗许可	li zhi xiao hao xu ke	1
+李织烟	li zhi yan	1
+利爪奇袭	li zhua qi xi	1
+连击	lian ji	1
+联结点	lian jie dian	1
+链路聚会	lian lu ju hui	1
+联络区	lian luo qu	1
+联盟工团	lian meng gong tuan	1
+联盟停车场	lian meng ting che chang	1
+连携技	lian xie ji	1
+燎石	liao shi	1
+燎石子簇	liao shi zi cu	1
+燎影时刻	liao ying shi ke	1
+裂地者	lie di zhe	1
+裂地者营地	lie di zhe ying di	1
+冽风霜	lie feng shuang	1
+烈火洗枪	lie huo xi qiang	1
+裂兽	lie shou	1
+裂隙中和	lie xi zhong he	1
+临关渠	lin guan qu	1
+凛冽寒霜	lin lie han shuang	1
+鳞肉干	lin rou gan	1
+临时避难所	lin shi bi nan suo	1
+临时堆放区	lin shi dui fang qu	1
+鳞兽	lin shou	1
+临终别礼	lin zhong bie li	1
+零度武装	ling du wu zhuang	1
+领航者	ling hang zhe	1
+零火斧甲兽	ling huo fu jia shou	1
+陵水大观	ling shui da guan	1
+陵水道	ling shui dao	1
+榴弹塔	liu dan ta	1
+瘤兽	liu shou	1
+流星的跃动	liu xing de yue dong	1
+留言信标	liu yan xin biao	1
+流转	liu zhuan	1
+龙泡泡	long pao pao	1
+龙泡泡蔬菜冻	long pao pao shu cai dong	1
+龙腾	long teng	1
+龙爪能量饮料	long zhua neng liang yin liao	1
+鲁珀	lu po	1
+掠食者一瞥	lue shi zhe yi pie	1
+落草	luo cao	1
+落潮轻甲	luo chao qing jia	1
+罗丹	luo dan	1
+罗德岛	luo de dao	1
+罗德岛特制口粮	luo de dao te zhi kou liang	1
+落井下石爱好者	luo jing xia shi ai hao zhe	1
+洛茜	luo qian	1
+旅行伊始	lv xing yi shi	1
+脉冲式	mai chong shi	1
+脉冲式干扰服	mai chong shi gan rao fu	1
+脉冲式校准器	mai chong shi jiao zhun qi	1
+脉冲式侵入核	mai chong shi qin ru he	1
+脉冲式手套	mai chong shi shou tao	1
+脉冲式探针	mai chong shi tan zhen	1
+满分状态	man fen zhuang tai	1
+曼提柯	man ti ke	1
+锚点与源石树枝	mao dian yu yuan shi shu zhi	1
+锚定谷地奖章	mao ding gu di jiang zhang	1
+锚定武陵奖章	mao ding wu ling jiang zhang	1
+毛茸茸派对	mao rong rong pai dui	1
+矛血同在	mao xue tong zai	1
+美好记录	mei hao ji lu	1
+猛火收汁	meng huo shou zhi	1
+猛击	meng ji	1
+秘方醒神茶	mi fang xing shen cha	1
+弭弗	mi fu	1
+密境初显	mi jing chu xian	1
+密境行者	mi jing xing zhe	1
+秘密词库	mi mi ci ku	1
+迷失荒野	mi shi huang ye	1
+秘杖	mi zhang	1
+醚质	mi zhi	1
+密制晶体	mi zhi jing ti	1
+醚质相机	mi zhi xiang ji	1
+迷踪渡	mi zong du	1
+迷踪林	mi zong lin	1
+免费赠礼	mian fei zeng li	1
+敏捷实践	min jie shi jian	1
+鸣雷	ming lei	1
+明日方舟	ming ri fang zhou	1
+明日方舟终末地	ming ri fang zhou zhong mo di	1
+明日新星	ming ri xin xing	1
+铭星	ming xing	1
+明耀晨星	ming yao chen xing	1
+魔甘草糖果	mo gan cao tang guo	1
+莫留财	mo liu cai	1
+莫奈何	mo nai he	1
+模拟空间	mo ni kong jian	1
+模拟空间奖章	mo ni kong jian jiang zhang	1
+莫惜命	mo xi ming	1
+魔眼效能	mo yan xiao neng	1
+幕后的决意	mu hou de jue yi	1
+奶奶的叮嘱	nai nai de ding zhu	1
+南部草甸	nan bu cao dian	1
+南谷旧垣	nan gu jiu yuan	1
+南山	nan shan	1
+闹剧专家	nao ju zhuan jia	1
+能力值	neng li zhi	1
+能量淤积点	neng liang yu ji dian	1
+溺水	ni shui	1
+碾骨	nian gu	1
+碾骨伏击射手	nian gu fu ji she shou	1
+碾骨劫掠者	nian gu jie lue zhe	1
+碾骨面具	nian gu mian ju	1
+碾骨披巾	nian gu pi jin	1
+碾骨破城者	nian gu po cheng zhe	1
+碾骨清道夫	nian gu qing dao fu	1
+碾骨射手	nian gu she shou	1
+碾骨渗透者	nian gu shen tou zhe	1
+碾骨氏族	nian gu shi zu	1
+碾骨手套	nian gu shou tao	1
+碾骨撕裂牙兽	nian gu si lie ya shou	1
+碾骨腕带	nian gu wan dai	1
+碾骨先锋	nian gu xian feng	1
+碾骨小雕像	nian gu xiao diao xiang	1
+碾骨行刑人	nian gu xing xing ren	1
+碾骨焰术士	nian gu yan shu shi	1
+碾骨焰术师	nian gu yan shu shi	1
+碾骨战营	nian gu zhan ying	1
+碾骨重护甲	nian gu zhong hu jia	1
+年轻的理想	nian qing de li xiang	1
+碾碎拳骨	nian sui quan gu	1
+碾碎星辰的残片	nian sui xing chen de can pian	1
+聂菲斯	nie fei si	1
+凝华	ning hua	1
+凝声	ning sheng	1
+凝望真理	ning wang zhen li	1
+怒潮	nu chao	1
+怒目彪兽	nu mu biao shou	1
+怒意留心	nu yi liu xin	1
+诺夫曼	nuo fu man	1
+偶像领域	ou xiang ling yu	1
+排水闸	pai shui zha	1
+叛逆心情	pan ni xin qing	1
+潘师傅蛋羹	pan shi fu dan geng	1
+咆兽的辫束	pao shou de bian shu	1
+裴迪亚	pei di ya	1
+配方固定	pei fang gu ding	1
+配件机	pei jian ji	1
+佩科	pei ke	1
+佩丽卡	pei li ka	1
+佩洛	pei luo	1
+培养仓	pei yang cang	1
+培养素材	pei yang su cai	1
+喷酒	pen jiu	1
+怦然星动	peng ran xing dong	1
+蓬茸锦草	peng rong jin cao	1
+蓬茸锦草粉末	peng rong jin cao fen mo	1
+朋友的身影	peng you de shen ying	1
+披甲裂兽	pi jia lie shou	1
+皮洛萨	pi luo sa	1
+匹特拉姆	pi te la mu	1
+平波堤	ping bo di	1
+平步险窟	ping bu xian ku	1
+苹果果切	ping guo guo qie	1
+平衡总控开关	ping heng zong kong kai guan	1
+破城者拳甲	po cheng zhe quan jia	1
+破防	po fang	1
+破飞霞	po fei xia	1
+破晦	po hui	1
+破势	po shi	1
+破碎边界	po sui bian jie	1
+破碎君王	po sui jun wang	1
+破影	po ying	1
+破阵刀碎片	po zhen dao sui pian	1
+破执	po zhi	1
+普通攻击	pu tong gong ji	1
+跂步晶城	qi bu jing cheng	1
+启程	qi cheng	1
+启动进程	qi dong jin cheng	1
+气辅塑形	qi fu su xing	1
+气候监测站	qi hou jian ce zhan	1
+弃剑台	qi jian tai	1
+气练三绝	qi lian san jue	1
+麒麟	qi lin	1
+奇美拉	qi mei la	1
+启明	qi ming	1
+启明驻留平台模型	qi ming zhu liu ping tai mo xing	1
+骑士精神	qi shi jing shen	1
+奇松岭	qi song ling	1
+气态赤铜	qi tai chi tong	1
+气态赫铜	qi tai he tong	1
+气态灼铜	qi tai zhuo tong	1
+气体反应炉	qi ti fan ying lu	1
+气体散布机	qi ti san bu ji	1
+气体盛装	qi ti sheng zhuang	1
+气体收集泵	qi ti shou ji beng	1
+栖云林地	qi yun lin di	1
+虔诚	qian cheng	1
+千锤百炼奖章	qian chui bai lian jiang zhang	1
+潜地虬兽	qian di qiu shou	1
+千定万定	qian ding wan ding	1
+嵌合正义	qian he zheng yi	1
+嵌晶玉	qian jing yu	1
+前来报到	qian lai bao dao	1
+阡陌	qian mo	1
+潜能解放奖章	qian neng jie fang jiang zhang	1
+前哨基地	qian shao ji di	1
+钳兽	qian shou	1
+前线援护	qian xian yuan hu	1
+潜心	qian xin	1
+前沿瞭望	qian yan liao wang	1
+前瞻目光	qian zhan mu guang	1
+强攻	qiang gong	1
+强固模具	qiang gu mu ju	1
+荞花	qiao hua	1
+荞花粉末	qiao hua fen mo	1
+荞花田块	qiao hua tian kuai	1
+荞花种子	qiao hua zhong zi	1
+巧技	qiao ji	1
+巧径游光	qiao jing you guang	1
+乔斯特	qiao si te	1
+桥头工事	qiao tou gong shi	1
+桥头区营地	qiao tou qu ying di	1
+荞愈胶囊	qiao yu jiao nang	1
+荞愈药粉	qiao yu yao fen	1
+切骨	qie gu	1
+切丝入锅	qie si ru guo	1
+秦茳尺	qin jiang chi	1
+亲切赠礼奖章	qin qie zeng li jiang zhang	1
+侵蚀屏障	qin shi ping zhang	1
+侵蚀瘴	qin shi zhang	1
+侵蚀瘴扫描插件	qin shi zhang sao miao cha jian	1
+侵蚀阻碍	qin shi zu ai	1
+轻黯石	qing an shi	1
+轻黯石子簇	qing an shi zi cu	1
+情报交流奖章	qing bao jiao liu jiang zhang	1
+清波	qing bo	1
+清波定位仪	qing bo ding wei yi	1
+清波护手	qing bo hu shou	1
+清波轻甲	qing bo qing jia	1
+清波三艺	qing bo san yi	1
+清波手甲	qing bo shou jia	1
+清波水罐	qing bo shui guan	1
+清波修炼法	qing bo xiu lian fa	1
+清波寨	qing bo zhai	1
+清波寨外寨	qing bo zhai wai zhai	1
+清波重甲	qing bo zhong jia	1
+清波竹铃	qing bo zhu ling	1
+清波竹刃	qing bo zhu ren	1
+轻超域	qing chao yu	1
+轻超域分析环	qing chao yu fen xi huan	1
+轻超域护板	qing chao yu hu ban	1
+轻超域护手	qing chao yu hu shou	1
+轻超域轻护手	qing chao yu qing hu shou	1
+轻超域腕表	qing chao yu wan biao	1
+轻超域稳定盘	qing chao yu wen ding pan	1
+清道夫	qing dao fu	1
+清炖息壤球	qing dun xi rang qiu	1
+轻红柱状菌	qing hong zhu zhuang jun	1
+轻红柱状菌块	qing hong zhu zhuang jun kuai	1
+轻芒	qing mang	1
+清水	qing shui	1
+清芜	qing wu	1
+青芜	qing wu	1
+晴雪天气	qing xue tian qi	1
+轻盈脚步	qing ying jiao bu	1
+轻舟已过	qing zhou yi guo	1
+青子林	qing zi lin	1
+球刺兽	qiu ci shou	1
+球刺兽的肝脏	qiu ci shou de gan zang	1
+秋栗	qiu li	1
+虬兽的须	qiu shou de xu	1
+秋水横渡	qiu shui heng du	1
+求知欲	qiu zhi yu	1
+驱火焚影	qu huo fen ying	1
+驱水行路	qu shui xing lu	1
+区域防护	qu yu fang hu	1
+拳出山林	quan chu shan lin	1
+拳出无悔	quan chu wu hui	1
+全局思维	quan ju si wei	1
+全力写作	quan li xie zuo	1
+全面测试	quan mian ce shi	1
+全面攻势	quan mian gong shi	1
+全面抹消奖章	quan mian mo xiao jiang zhang	1
+权能映射	quan neng ying she	1
+全位显现	quan wei xian xian	1
+权限等阶	quan xian deng jie	1
+全向声波塔	quan xiang sheng bo ta	1
+全自动骇新星	quan zi dong hai xin xing	1
+雀跃扳机	que yue ban ji	1
+燃烬	ran jin	1
+燃尽记忆之灰	ran jin ji yi zhi hui	1
+燃烧	ran shao	1
+壤晶	rang jing	1
+壤晶废液	rang jing fei ye	1
+壤流	rang liu	1
+壤流短棍	rang liu duan gun	1
+壤流护手	rang liu hu shou	1
+壤流轻甲	rang liu qing jia	1
+热能池	re neng chi	1
+热情迸发	re qing beng fa	1
+热熔切割器	re rong qie ge qi	1
+热身完毕	re shen wan bi	1
+人间百味	ren jian bai wei	1
+任务	ren wu	1
+人造南墙	ren zao nan qiang	1
+认知载体	ren zhi zai ti	1
+熔火之心	rong huo zhi xin	1
+熔火之邀	rong huo zhi yao	1
+熔甲者	rong jia zhe	1
+溶液	rong ye	1
+熔铸火焰	rong zhu huo yan	1
+软骨饼干	ruan gu bing gan	1
+软骨碎屑	ruan gu sui xie	1
+阮一	ruan yi	1
+瑞柏巴	rui bai ba	1
+萨弗拉	sa fu la	1
+萨卡兹	sa ka zi	1
+萨科塔	sa ke ta	1
+萨米	sa mi	1
+萨特	sa te	1
+塞拉托	sai la tuo	1
+塞梦珂披巾	sai meng ke pi jin	1
+塞什卡	sai shen ka	1
+塞什卡的秘传	sai shen ka de mi chuan	1
+塞什卡风肉排	sai shen ka feng rou pai	1
+赛希	sai xi	1
+三倍惊喜	san bei jing xi	1
+三号丙型辅桩区	san hao bing xing fu zhuang qu	1
+三窟岗	san ku gang	1
+三位一体	san wei yi ti	1
+三相纳米片	san xiang na mi pian	1
+扫描	sao miao	1
+扫描寻物	sao miao xun wu	1
+歃血涤罪	sha xue di zui	1
+砂叶	sha ye	1
+砂叶粉末	sha ye fen mo	1
+砂叶田块	sha ye tian kuai	1
+砂叶种子	sha ye zhong zi	1
+闪避	shan bi	1
+山道缓坡	shan dao huan po	1
+山地侧路	shan di ce lu	1
+山地顶端	shan di ding duan	1
+山地通道	shan di tong dao	1
+山顶冲浪	shan ding chong lang	1
+闪冻锁鲜	shan dong suo xian	1
+山犼兽	shan hou shou	1
+山后小径	shan hou xiao jing	1
+山樆小景	shan li xiao jing	1
+山水墨成	shan shui mo cheng	1
+闪耀焦点	shan yao jiao dian	1
+山中见犼	shan zhong jian hou	1
+伤害类型	shang hai lei xing	1
+伤害受到减免	shang hai shou dao jian mian	1
+熵减	shang jian	1
+汤汤	shang shang	1
+汤汤卷	shang shang juan	1
+哨戒塔	shao jie ta	1
+少年心	shao nian xin	1
+设备加工	she bei jia gong	1
+设备配方	she bei pei fang	1
+设备图鉴	she bei tu jian	1
+设备制造	she bei zhi zao	1
+射手	she shou	1
+射线塔	she xian ta	1
+渉渊护甲板	she yuan hu jia ban	1
+渉渊护手	she yuan hu shou	1
+渉渊轻甲	she yuan qing jia	1
+渉渊手套	she yuan shou tao	1
+渉渊重甲	she yuan zhong jia	1
+深层管理区	shen ceng guan li qu	1
+深层管理区地下二层	shen ceng guan li qu di xia er ceng	1
+深层管理区地下一层	shen ceng guan li qu di xia yi ceng	1
+深度探索奖章	shen du tan suo jiang zhang	1
+深厚情谊奖章	shen hou qing yi jiang zhang	1
+神秘气泡饮料	shen mi qi pao yin liao	1
+渗透者	shen tou zhe	1
+生存特训	sheng cun te xun	1
+生存专家	sheng cun zhuan jia	1
+生机盆景	sheng ji pen jing	1
+胜利喝彩	sheng li he cai	1
+生命	sheng ming	1
+生命大于任务	sheng ming da yu ren wu	1
+绳索	sheng suo	1
+生态标本室	sheng tai biao ben shi	1
+生态实验站	sheng tai shi yan zhan	1
+生态种植区	sheng tai zhong zhi qu	1
+生物辅助	sheng wu fu zhu	1
+生物辅助臂甲	sheng wu fu zhu bi jia	1
+生物辅助护板	sheng wu fu zhu hu ban	1
+生物辅助护盾针	sheng wu fu zhu hu dun zhen	1
+生物辅助接驳器	sheng wu fu zhu jie bo qi	1
+生物辅助手甲	sheng wu fu zhu shou jia	1
+生物辅助胸甲	sheng wu fu zhu xiong jia	1
+生物辅助重甲	sheng wu fu zhu zhong jia	1
+盛装	sheng zhuang	1
+世代摇篮	shi dai yao lan	1
+蚀电防护	shi dian fang hu	1
+蚀电防护扳手	shi dian fang hu ban shou	1
+蚀电防护背心	shi dian fang hu bei xin	1
+蚀电防护电池	shi dian fang hu dian chi	1
+蚀电防护手套	shi dian fang hu shou tao	1
+蚀电屏蔽	shi dian ping bi	1
+蚀电屏蔽扳手	shi dian ping bi ban shou	1
+蚀电屏蔽背心	shi dian ping bi bei xin	1
+蚀电屏蔽电池	shi dian ping bi dian chi	1
+蚀电屏蔽手套	shi dian ping bi shou tao	1
+噬冬	shi dong	1
+十二间	shi er jian	1
+师府学院	shi fu xue yuan	1
+蚀海	shi hai	1
+失衡节点	shi heng jie dian	1
+失衡值	shi heng zhi	1
+石涧崖	shi jian ya	1
+世界翻转	shi jie fan zhuan	1
+时刻坚守	shi ke jian shou	1
+石料岩洞	shi liao yan dong	1
+市民广场	shi min guang chang	1
+使命必达	shi ming bi da	1
+施术单元	shi shu dan yuan	1
+失温庇护所	shi wen bi hu suo	1
+失温猛击	shi wen meng ji	1
+蚀象	shi xiang	1
+蚀崖观测站	shi ya guan ce zhan	1
+誓言未竞	shi yan wei jing	1
+实验息壤零件	shi yan xi rang ling jian	1
+实验息壤瓶	shi yan xi rang ping	1
+实验玉铜发散器	shi yan yu tong fa san qi	1
+试验园区	shi yan yuan qu	1
+实验重息壤零件	shi yan zhong xi rang ling jian	1
+实验重息壤瓶	shi yan zhong xi rang ping	1
+实验作物试点区	shi yan zuo wu shi dian qu	1
+蚀影彪兽	shi ying biao shou	1
+蚀影球刺兽	shi ying qiu ci shou	1
+蚀影牙兽	shi ying ya shou	1
+蚀影应龙队长	shi ying ying long dui zhang	1
+蚀影应龙尖兵	shi ying ying long jian bing	1
+蚀影应龙破阵手	shi ying ying long po zhen shou	1
+蚀影应龙前锋	shi ying ying long qian feng	1
+蚀影噪雷	shi ying zao lei	1
+师者教诲	shi zhe jiao hui	1
+失真	shi zhen	1
+手铳	shou chong	1
+首墩	shou dun	1
+首墩顶层	shou dun ding ceng	1
+首墩内部	shou dun nei bu	1
+首墩下层	shou dun xia ceng	1
+首墩中层副区	shou dun zhong ceng fu qu	1
+首墩中层主区	shou dun zhong ceng zhu qu	1
+手工怪味酸糖	shou gong guai wei suan tang	1
+手工星星糖	shou gong xing xing tang	1
+收货助力奖章	shou huo zhu li jiang zhang	1
+受击装置	shou ji zhuang zhi	1
+熟练截击奖章	shou lian jie ji jiang zhang	1
+狩猎时间到	shou lie shi jian dao	1
+狩猎时刻	shou lie shi ke	1
+守墓人之赠	shou mu ren zhi zeng	1
+收纳模式	shou na mo shi	1
+兽肉	shou rou	1
+受蚀玉化叶	shou shi yu hua ye	1
+受蚀玉化叶根茎	shou shi yu hua ye gen jing	1
+手撕虫肉	shou si chong rou	1
+术法天分	shu fa tian fen	1
+纾难	shu nan	1
+纾难护甲	shu nan hu jia	1
+纾难护手	shu nan hu shou	1
+纾难识别牌	shu nan shi bie pai	1
+纾难手套	shu nan shou tao	1
+纾难印章	shu nan yin zhang	1
+纾难重甲	shu nan zhong jia	1
+束能技艺	shu neng ji yi	1
+枢纽基地电站	shu niu ji di dian zhan	1
+枢纽基地区	shu niu ji di qu	1
+枢纽区	shu niu qu	1
+枢纽区西部	shu niu qu xi bu	1
+枢纽区应急餐	shu niu qu ying ji can	1
+枢壤仪	shu rang yi	1
+疏散区	shu san qu	1
+术师	shu shi	1
+术识	shu shi	1
+树枝源石虫	shu zhi yuan shi chong	1
+双剑奇侠	shuang jian qi xia	1
+双手剑	shuang shou jian	1
+水泵	shui beng	1
+水车与水渠	shui che yu shui qu	1
+水灯虫	shui deng chong	1
+水利枢纽	shui li shu niu	1
+水驱矿机	shui qu kuang ji	1
+水位控制阀	shui wei kong zhi fa	1
+水泽涧	shui ze jian	1
+水蒸气	shui zheng qi	1
+水自天流	shui zi tian liu	1
+四二式肃阵	si er shi su zhen	1
+四号谷地	si hao gu di	1
+四皇会战	si huang hui zhan	1
+死寂争鸣	si ji zheng ming	1
+撕裂牙兽	si lie ya shou	1
+肆型	si xing	1
+死域游身	si yu you shen	1
+速成陈酿	su cheng chen niang	1
+速冻帮手	su dong bang shou	1
+速冻仔	su dong zai	1
+速食骨汤	su shi gu tang	1
+苏醒	su xing	1
+塑形机	su xing ji	1
+速战速决	su zhan su jue	1
+酸气	suan qi	1
+酸洗	suan xi	1
+酸液源石虫	suan ye yuan shi chong	1
+碎甲	sui jia	1
+遂鳞	sui lin	1
+碎片的重聚	sui pian de chong ju	1
+碎片的再会	sui pian de zai hui	1
+随身装置	sui shen zhuang zhi	1
+锁定	suo ding	1
+索斯	suo si	1
+踏潮卷浪	ta chao juan lang	1
+塔吊	ta diao	1
+塔尔	ta er	1
+塔晶	ta jing	1
+塔晶兑换	ta jing dui huan	1
+塔罗斯	ta luo si	1
+塔罗斯菌	ta luo si jun	1
+塔罗斯菌块	ta luo si jun kuai	1
+塔塔的日志	ta ta de ri zhi	1
+塔卫二	ta wei er	1
+塔卫二之盾	ta wei er zhi dun	1
+塔卫五	ta wei wu	1
+台前的无暇	tai qian de wu xia	1
+碳粉末	tan fen mo	1
+谈剑堂	tan jian tang	1
+炭块	tan kuai	1
+探骊	tan li	1
+谈判策略	tan pan ce lue	1
+弹射装置	tan she zhuang zhi	1
+探索等级	tan suo deng ji	1
+坍缩山道	tan suo shan dao	1
+弹性需求物资	tan xing xu qiu wu zi	1
+探云坪	tan yun ping	1
+特别信件	te bie xin jian	1
+特大鳞讯	te da lin xun	1
+特许寻访凭证	te xu xun fang ping zheng	1
+提纯机	ti chun ji	1
+天地造化	tian di zao hua	1
+天赋阵列	tian fu zhen lie	1
+天鼓	tian gu	1
+天际的憧憬	tian ji de chong jing	1
+田家特色烂肉面	tian jia te se lan rou mian	1
+天井院	tian jing yuan	1
+天井院底部	tian jing yuan di bu	1
+天井院地下二层	tian jing yuan di xia er ceng	1
+天井院地下三层	tian jing yuan di xia san ceng	1
+天井院地下一层	tian jing yuan di xia yi ceng	1
+天然晶城锭	tian ran jing cheng ding	1
+天然气泡水	tian ran qi pao shui	1
+天生掠食者	tian sheng lue shi zhe	1
+天使	tian shi	1
+天使杀手	tian shi sha shou	1
+天师桩	tian shi zhuang	1
+天师桩模型	tian shi zhuang mo xing	1
+天师桩研究中心	tian shi zhuang yan jiu zhong xin	1
+天师桩阵列	tian shi zhuang zhen lie	1
+天王坪	tian wang ping	1
+天有烘炉	tian you hong lu	1
+天灾防护	tian zai fang hu	1
+天灾防护净芯	tian zai fang hu jing xin	1
+天灾防护滤芯	tian zai fang hu lv xin	1
+天灾防护手套	tian zai fang hu shou tao	1
+天灾防护重甲	tian zai fang hu zhong jia	1
+天柱	tian zhu	1
+铁誓	tie shi	1
+铁叶转轮	tie ye zhuan lun	1
+铁质零件	tie zhi ling jian	1
+同病相怜	tong bing xiang lian	1
+通道入口	tong dao ru kou	1
+同行	tong hang	1
+酮化灌木	tong hua guan mu	1
+酮化灌木粉末	tong hua guan mu fen mo	1
+酮化灌木田块	tong hua guan mu tian kuai	1
+酮化树种	tong hua shu zhong	1
+同类相食	tong lei xiang shi	1
+同行者的小雕像	tong xing zhe de xiao diao xiang	1
+通行证	tong xing zheng	1
+统御严冬	tong yu yan dong	1
+通元识微	tong yuan shi wei	1
+突击	tu ji	1
+驮鼻山	tuo bi shan	1
+拓荒	tuo huang	1
+拓荒分析仪	tuo huang fen xi yi	1
+拓荒供氧栓	tuo huang gong yang shuan	1
+拓荒护服	tuo huang hu fu	1
+拓荒护甲	tuo huang hu jia	1
+拓荒耐蚀手套	tuo huang nai shi shou tao	1
+拓荒通信器	tuo huang tong xin qi	1
+拓荒纤维手套	tuo huang xian wei shou tao	1
+拓荒增量供氧栓	tuo huang zeng liang gong yang shuan	1
+瓦伊凡	wa yi fan	1
+外部起爆	wai bu qi bao	1
+万古流	wan gu liu	1
+万钧风雷	wan jun feng lei	1
+完美造物	wan mei zao wu	1
+完美装备奖章	wan mei zhuang bei jiang zhang	1
+望楼蓄水站	wang lou xu shui zhan	1
+往事碎片	wang shi sui pian	1
+望乡	wang xiang	1
+王与骑士	wang yu qi shi	1
+危机处理	wei ji chu li	1
+危机合约	wei ji he yue	1
+尾尖金甲	wei jian jin jia	1
+危境预演	wei jing yu yan	1
+危境再现	wei jing zai xian	1
+未来	wei lai	1
+威胁图鉴	wei xie tu jian	1
+未知邀约	wei zhi yao yue	1
+问蝶	wen die	1
+稳定出售奖章	wen ding chu shou jiang zhang	1
+稳定炭块	wen ding tan kuai	1
+紊乱值	wen luan zhi	1
+文明的坚盾	wen ming de jian dun	1
+温馨港湾	wen xin gang wan	1
+沃尔珀	wo er po	1
+涡流团	wo liu tuan	1
+我最后侍奉的王	wo zui hou shi feng de wang	1
+无边遐思	wu bian xia si	1
+无边征程	wu bian zheng cheng	1
+五号公路	wu hao gong lu	1
+无悔抉择	wu hui jue ze	1
+雾火牙兽	wu huo ya shou	1
+雾火爪牙	wu huo zhao ya	1
+雾火之花	wu huo zhi hua	1
+无机造物	wu ji zao wu	1
+武库配额	wu ku pei e	1
+武库完备奖章	wu ku wan bei jiang zhang	1
+物理	wu li	1
+物理伤害	wu li shang hai	1
+物理异常	wu li yi chang	1
+武陵	wu ling	1
+武陵炒饭	wu ling chao fan	1
+武陵城	wu ling cheng	1
+武陵储藏家奖章	wu ling chu cang jia jiang zhang	1
+武陵电池	wu ling dian chi	1
+武陵调查者奖章	wu ling diao cha zhe jiang zhang	1
+武陵调度券	wu ling diao du quan	1
+武陵调度专家奖章	wu ling diao du zhuan jia jiang zhang	1
+武陵动态侵蚀	wu ling dong tai qin shi	1
+武陵工业点数	wu ling gong ye dian shu	1
+武陵工业计划	wu ling gong ye ji hua	1
+武陵工业先驱奖章	wu ling gong ye xian qu jiang zhang	1
+武陵据点开拓奖章	wu ling ju dian kai tuo jiang zhang	1
+武陵刻写券	wu ling ke xie quan	1
+武陵乱炒	wu ling luan chao	1
+武陵盛大裂隙上层	wu ling sheng da lie xi shang ceng	1
+武陵石	wu ling shi	1
+武陵石子簇	wu ling shi zi cu	1
+武陵拓展核心	wu ling tuo zhan he xin	1
+物流桥	wu liu qiao	1
+物流设备	wu liu she bei	1
+物品图鉴	wu pin tu jian	1
+物品准入口	wu pin zhun ru kou	1
+武器	wu qi	1
+武器补给	wu qi bu gei	1
+武器检查单元	wu qi jian cha dan yuan	1
+武器检查套组	wu qi jian cha tao zu	1
+武器图鉴	wu qi tu jian	1
+乌萨斯	wu sa si	1
+巫术时刻	wu shu shi ke	1
+巫术嗅觉	wu shu xiu jue	1
+污水	wu shui	1
+污水处理站	wu shui chu li zhan	1
+五味调和	wu wei tiao he	1
+无限的未来	wu xian de wei lai	1
+雾中微光	wu zhong wei guang	1
+物资调度	wu zi diao du	1
+物资箱	wu zi xiang	1
+西谷峡道	xi gu xia dao	1
+习惯性延误	xi guan xing yan wu	1
+息流行道	xi liu xing dao	1
+细磨柑实粉末	xi mo gan shi fen mo	1
+细磨荞花粉末	xi mo qiao hua fen mo	1
+息壤	xi rang	1
+息壤导流轨道系统	xi rang dao liu gui dao xi tong	1
+息壤供电桩	xi rang gong dian zhuang	1
+息壤葫芦	xi rang hu lu	1
+息壤控流节点	xi rang kong liu jie dian	1
+息壤气	xi rang qi	1
+息壤桥	xi rang qiao	1
+息壤偃	xi rang yan	1
+息壤研究所	xi rang yan jiu suo	1
+息壤玉葫芦	xi rang yu hu lu	1
+息壤中继器	xi rang zhong ji qi	1
+息壤装备原件	xi rang zhuang bei yuan jian	1
+昔日精品	xi ri jing pin	1
+鼷兽	xi shou	1
+洗灾秘剂	xi zai mi ji	1
+侠迹	xia ji	1
+下意识	xia yi shi	1
+先锋	xian feng	1
+显赫声明	xian he sheng ming	1
+先进工作者	xian jin gong zuo zhe	1
+咸鳞翻身	xian lin fan shen	1
+衔石	xian shi	1
+现实迸裂	xian shi beng lie	1
+现实静滞	xian shi jing zhi	1
+陷阵剑术	xian zhen jian shu	1
+陷阵之志	xian zhen zhi zhi	1
+相伴赠礼	xiang ban zeng li	1
+像差区域	xiang cha qu yu	1
+降服	xiang fu	1
+香蕉皮	xiang jiao pi	1
+相庆	xiang qing	1
+享受混乱	xiang shou hun luan	1
+向晚	xiang wan	1
+象限	xiang xian	1
+象限拟合液	xiang xian ni he ye	1
+向心之引	xiang xin zhi yin	1
+小虫之旅	xiao chong zhi lv	1
+小队集结	xiao dui ji jie	1
+小队作战	xiao dui zuo zhan	1
+小惊喜	xiao jing xi	1
+小麻烦	xiao ma fan	1
+小蜜虫布丁	xiao mi chong bu ding	1
+肖娜	xiao na	1
+小咆兽活动架	xiao pao shou huo dong jia	1
+小瓶柑实冲剂	xiao ping gan shi chong ji	1
+小瓶荞复锭剂	xiao ping qiao fu ding ji	1
+小糖画	xiao tang hua	1
+肖像天使	xiao xiang tian shi	1
+效益	xiao yi	1
+骁勇	xiao yong	1
+小酌	xiao zhuo	1
+携手对敌奖章	xie shou dui di jiang zhang	1
+协议	xie yi	1
+协议采录桩	xie yi cai lu zhuang	1
+协议储存箱	xie yi chu cun xiang	1
+协议传送点	xie yi chuan song dian	1
+协议冻结	xie yi dong jie	1
+协议核心	xie yi he xin	1
+协议化武器原型	xie yi hua wu qi yuan xing	1
+协议空间	xie yi kong jian	1
+协议雷击	xie yi lei ji	1
+协议棱柱	xie yi leng zhu	1
+协议棱柱组	xie yi leng zhu zu	1
+协议容量限制	xie yi rong liang xian zhi	1
+协议同步器	xie yi tong bu qi	1
+协议突破	xie yi tu po	1
+协议纹石	xie yi wen shi	1
+协议纹石子簇	xie yi wen shi zi cu	1
+协议行进	xie yi xing jin	1
+协议邀约	xie yi yao yue	1
+协议圆盘	xie yi yuan pan	1
+协议圆盘组	xie yi yuan pan zu	1
+楔子	xie zi	1
+薪火不息	xin huo bu xi	1
+心兼人间	xin jian ren jian	1
+心流时间	xin liu shi jian	1
+心如寒铁	xin ru han tie	1
+信使的歌声	xin shi de ge sheng	1
+信使的信	xin shi de xin	1
+心手合一	xin shou he yi	1
+心枢	xin shu	1
+新笋	xin sun	1
+信用获取	xin yong huo qu	1
+心愿	xin yuan	1
+新铸剑锋	xin zhu jian feng	1
+行动派	xing dong pai	1
+行动手册	xing dong shou ce	1
+行动资历	xing dong zi li	1
+行渡	xing du	1
+猩红坠雨	xing hong zhui yu	1
+行军	xing jun	1
+星门菌	xing men jun	1
+星门菌块	xing men jun kuai	1
+星门锁	xing men suo	1
+星融果冻	xing rong guo dong	1
+行探险窟	xing tan xian ku	1
+星体的残肢	xing ti de can zhi	1
+行刑人	xing xing ren	1
+行至武陵	xing zhi wu ling	1
+修身	xiu shen	1
+休整间隙	xiu zheng jian xi	1
+蓄石秘剂	xu shi mi ji	1
+需水方块	xu shui fang kuai	1
+需水阵列	xu shui zhen lie	1
+悬浮箱子	xuan fu xiang zi	1
+悬谷台	xuan gu tai	1
+悬河供氧栓	xuan he gong yang shuan	1
+选剑局	xuan jian ju	1
+选剑演武	xuan jian yan wu	1
+血红之影	xue hong zhi ying	1
+血菌	xue jun	1
+血菌块	xue jun kuai	1
+血涌苏生	xue yong su sheng	1
+雪中滑翔	xue zhong hua xiang	1
+寻道	xun dao	1
+寻访	xun fang	1
+循环协议	xun huan xie yi	1
+迅极	xun ji	1
+循迹逐猎	xun ji zhu lie	1
+寻路者道标	xun lu zhe dao biao	1
+寻星旅者	xun xing lv zhe	1
+巡行信使	xun xing xin shi	1
+巡行信使夹克	xun xing xin shi jia ke	1
+巡行信使手电	xun xing xin shi shou dian	1
+巡行信使手套	xun xing xin shi shou tao	1
+巡行信使陀螺	xun xing xin shi tuo luo	1
+崖边开采区	ya bian kai cai qu	1
+崖边山道	ya bian shan dao	1
+雅各布的遗产	ya ge bu de yi chan	1
+压力板	ya li ban	1
+压力测试	ya li ce shi	1
+压力感应	ya li gan ying	1
+亚历山大的文件袋	ya li shan da de wen jian dai	1
+牙兽	ya shou	1
+崖下洞	ya xia dong	1
+芽针	ya zhen	1
+芽针粉末	ya zhen fen mo	1
+芽针喷剂	ya zhen pen ji	1
+芽针溶液	ya zhen rong ye	1
+芽针田块	ya zhen tian kuai	1
+芽针针剂	ya zhen zhen ji	1
+芽针种子	ya zhen zhong zi	1
+压制	ya zhi	1
+研发中心地下走道	yan fa zhong xin di xia zou dao	1
+研发中心顶层	yan fa zhong xin ding ceng	1
+延后工作	yan hou gong zuo	1
+研究所	yan jiu suo	1
+研究所二楼	yan jiu suo er lou	1
+研磨机	yan mo ji	1
+偃旗息鼓	yan qi xi gu	1
+岩丘通道	yan qiu tong dao	1
+岩石的轻语	yan shi de qing yu	1
+焰术士	yan shu shi	1
+焰术师	yan shu shi	1
+严霜之舞	yan shuang zhi wu	1
+岩天使叶	yan tian shi ye	1
+岩天使叶根茎	yan tian shi ye gen jing	1
+演武集算	yan wu ji suan	1
+演武平台	yan wu ping tai	1
+衍质源石	yan zhi yuan shi	1
+岩中花朵	yan zhong hua duo	1
+宴坐空山	yan zuo kong shan	1
+羊的乐园	yang de le yuan	1
+仰视开端	yang shi kai duan	1
+养性	yang xing	1
+仰止	yang zhi	1
+摇摆绅士古典特辑	yao bai shen shi gu dian te ji	1
+曜夜的首演	yao ye de shou yan	1
+液氮塔	ye dan ta	1
+耶尔什微风	ye er shen wei feng	1
+耶尔什自由市	ye er shen zi you shi	1
+液化息壤	ye hua xi rang	1
+液化重息壤	ye hua zhong xi rang	1
+液面升降	ye mian sheng jiang	1
+夜幕	ye mu	1
+液气转化机	ye qi zhuan hua ji	1
+夜趋逐罪	ye qu zhu zui	1
+野外生物	ye wai sheng wu	1
+易爆物储存桶	yi bao wu chu cun tong	1
+一大筐汤汤卷	yi da kuang shang shang juan	1
+一等星的鼓舞	yi deng xing de gu wu	1
+移动要塞	yi dong yao sai	1
+伊冯	yi feng	1
+一感一应	yi gan yi ying	1
+一号丙型辅桩区	yi hao bing xing fu zhuang qu	1
+一截微型石像	yi jie wei xing shi xiang	1
+医疗	yi liao	1
+医疗塔	yi liao ta	1
+易燃凝胶	yi ran ning jiao	1
+异色油脂	yi se you zhi	1
+易守难攻	yi shou nan gong	1
+艺术暴君	yi shu bao jun	1
+依特拉	yi te la	1
+以铁还铁	yi tie hai tie	1
+遗忘	yi wang	1
+一息万变	yi xi wan bian	1
+壹型	yi xing	1
+依依难舍奖章	yi yi nan she jiang zhang	1
+引导灯	yin dao deng	1
+引力模式	yin li mo shi	1
+引领者	yin ling zhe	1
+引路蝴蝶	yin lu hu die	1
+荧光雷羽	ying guang lei yu	1
+映火荞花	ying huo qiao hua	1
+应急联络仪	ying ji lian luo yi	1
+应急手段	ying ji shou duan	1
+应急压缩核	ying ji ya suo he	1
+萤壳虫	ying ke chong	1
+应龙	ying long	1
+应龙档案室	ying long dang an shi	1
+应龙短刃	ying long duan ren	1
+应龙关	ying long guan	1
+应龙护手	ying long hu shou	1
+应龙雷达	ying long lei da	1
+应龙手甲	ying long shou jia	1
+应龙四式	ying long si shi	1
+应龙哑铃	ying long ya ling	1
+应龙重甲	ying long zhong jia	1
+应龙主营	ying long zhu ying	1
+应龙桩	ying long zhuang	1
+映射节点	ying she jie dian	1
+萤石	ying shi	1
+盈天台建设站	ying tian tai jian she zhan	1
+盈月邀击	ying yue yao ji	1
+永恒回归	yong heng hui gui	1
+油爆双脆	you bao shuang cui	1
+幽谷	you gu	1
+幽径隧洞	you jing sui dong	1
+游乐团团	you le tuan tuan	1
+油焖整笋罐头	you men zheng sun guan tou	1
+友情扭扭	you qing niu niu	1
+幽台试验场	you tai shi yan chang	1
+游戏发现者	you xi fa xian zhe	1
+游戏工具	you xi gong ju	1
+游戏奖励	you xi jiang li	1
+游戏开始	you xi kai shi	1
+有形的责任	you xing de ze ren	1
+游于光焰	you yu guang yan	1
+优质柑实罐头	you zhi gan shi guan tou	1
+优质锦草软饮	you zhi jin cao ruan yin	1
+优质荞愈胶囊	you zhi qiao yu jiao nang	1
+优质芽针针剂	you zhi ya zhen zhen ji	1
+于谷地的密境中	yu gu di de mi jing zhong	1
+淤积清理奖章	yu ji qing li jiang zhang	1
+余烬	yu jin	1
+羽兽	yu shou	1
+羽兽剪纸飞机	yu shou jian zhi fei ji	1
+羽兽三抄水	yu shou san chao shui	1
+雨停的瞬间	yu ting de shun jian	1
+寓于枯荣	yu yu ku rong	1
+源矿	yuan kuang	1
+原木	yuan mu	1
+园区权限卡	yuan qu quan xian ka	1
+园区外围	yuan qu wai wei	1
+员山	yuan shan	1
+原生钳兽	yuan sheng qian shou	1
+源石电路修复	yuan shi dian lu xiu fu	1
+源石发电站	yuan shi fa dian zhan	1
+源石发电站上层	yuan shi fa dian zhan shang ceng	1
+源石粉末	yuan shi fen mo	1
+源石副产物中心	yuan shi fu chan wu zhong xin	1
+源石技艺	yuan shi ji yi	1
+源石技艺强度	yuan shi ji yi qiang du	1
+源石理论应用	yuan shi li lun ying yong	1
+源石实验园区	yuan shi shi yan yuan qu	1
+源石隧道	yuan shi sui dao	1
+源石研究园	yuan shi yan jiu yuan	1
+原型研发区	yuan xing yan fa qu	1
+愿者上钩	yuan zhe shang gou	1
+约翰老爹汉堡	yue han lao die han bao	1
+悦心音调	yue xin yin diao	1
+岳研茶盒	yue yan cha he	1
+云层之上	yun ceng zhi shang	1
+云端小憩	yun duan xiao qi	1
+云端驻足	yun duan zhu zu	1
+云间舞踏	yun jian wu ta	1
+云兽	yun shou	1
+运输区	yun shu qu	1
+再次测试	zai ci ce shi	1
+再入控制	zai ru kong zhi	1
+在想我么	zai xiang wo me	1
+暂存能量淤积点	zan cun neng liang yu ji dian	1
+噪点	zao dian	1
+造极	zao ji	1
+凿孔底钓术	zao kong di diao shu	1
+增幅	zeng fu	1
+札拉克	zha la ke	1
+炸鳞薯条	zha lin shu tiao	1
+摘菱屿	zhai ling yu	1
+战斗辅助	zhan dou fu zhu	1
+斩锋	zhan feng	1
+战技	zhan ji	1
+展卷	zhan juan	1
+战旗飘扬时	zhan qi piao yang shi	1
+战前准备	zhan qian zhun bei	1
+栈桥道	zhan qiao dao	1
+战术教导	zhan shu jiao dao	1
+战术物品	zhan shu wu pin	1
+栈溢出	zhan yi chu	1
+战争回响	zhan zheng hui xiang	1
+掌心的宝物	zhang xin de bao wu	1
+掌中大救星	zhang zhong da jiu xing	1
+掌中巧物	zhang zhong qiao wu	1
+找到你咯	zhao dao ni lo	1
+爪牙	zhao ya	1
+折筠	zhe jun	1
+珍贵材料	zhen gui cai liao	1
+震撼美味	zhen han mei wei	1
+阵诀意	zhen jue yi	1
+阵诀智	zhen jue zhi	1
+阵列核心	zhen lie he xin	1
+阵列稳定桩	zhen lie wen ding zhuang	1
+镇绥蚀海	zhen sui shi hai	1
+阵线扫荡	zhen xian sao dang	1
+震音	zhen yin	1
+正本补元汤剂	zheng ben bu yuan tang ji	1
+征服者	zheng fu zhe	1
+征服者的遗恨	zheng fu zhe de yi hen	1
+征服者之死	zheng fu zhe zhi si	1
+证果	zheng guo	1
+正向反馈	zheng xiang fan kui	1
+正在抓捕验收人员	zheng zai zhua bu yan shou ren yuan	1
+指定研究对象	zhi ding yan jiu dui xiang	1
+至晶多齿叶	zhi jing duo chi ye	1
+至晶多齿叶根茎	zhi jing duo chi ye gen jing	1
+治疗效率	zhi liao xiao lv	1
+致密蓝铁粉末	zhi mi lan tie fen mo	1
+致密品体粉末	zhi mi pin ti fen mo	1
+致密碳粉末	zhi mi tan fen mo	1
+致密源石粉末	zhi mi yuan shi fen mo	1
+智能歼灭奖章	zhi neng jian mie jiang zhang	1
+置气阁	zhi qi ge	1
+志趣	zhi qu	1
+指引者	zhi yin zhe	1
+治愈核	zhi yu he	1
+制造舱	zhi zao cang	1
+中黯石	zhong an shi	1
+重黯石	zhong an shi	1
+中黯石子簇	zhong an shi zi cu	1
+重黯石子簇	zhong an shi zi cu	1
+重锤迫击炮	zhong chui pai ji pao	1
+重刺天使	zhong ci tian shi	1
+终点之声	zhong dian zhi sheng	1
+重度能量淤积点	zhong du neng liang yu ji dian	1
+重荷	zhong he	1
+中红柱状菌	zhong hong zhu zhuang jun	1
+重红柱状菌	zhong hong zhu zhuang jun	1
+中红柱状菌块	zhong hong zhu zhuang jun kuai	1
+重红柱状菌块	zhong hong zhu zhuang jun kuai	1
+重火力截击	zhong huo li jie ji	1
+重击	zhong ji	1
+中继器	zhong ji qi	1
+中继器供电	zhong ji qi gong dian	1
+终极武器奖章	zhong ji wu qi jiang zhang	1
+中级作战记录	zhong ji zuo zhan ji lu	1
+终结技	zhong jie ji	1
+终结技充能效率	zhong jie ji chong neng xiao lv	1
+中空异香石	zhong kong yi xiang shi	1
+重力场	zhong li chang	1
+终末地	zhong mo di	1
+重拳落空	zhong quan luo kong	1
+中容谷地电池	zhong rong gu di dian chi	1
+中容武陵电池	zhong rong wu ling dian chi	1
+众生智慧	zhong sheng zhi hui	1
+重息壤	zhong xi rang	1
+重息壤气	zhong xi rang qi	1
+重型强固模具	zhong xing qiang gu mu ju	1
+种植	zhong zhi	1
+种植机	zhong zhi ji	1
+种植调配	zhong zhi tiao pei	1
+昼雪	zhou xue	1
+诸尘皆净	zhu chen jie jing	1
+竹林虫蛹	zhu lin chong yong	1
+助人为乐奖章	zhu ren wei le jiang zhang	1
+主寨	zhu zhai	1
+主寨水车上层	zhu zhai shui che shang ceng	1
+主寨水车下层	zhu zhai shui che xia ceng	1
+转交运送委托	zhuan jiao yun song wei tuo	1
+转轮机关	zhuan lun ji guan	1
+转轮与桥梁	zhuan lun yu qiao liang	1
+转运枢纽	zhuan yun shu niu	1
+装备	zhuang bei	1
+装备加工	zhuang bei jia gong	1
+装备精锻	zhuang bei jing duan	1
+装备模板箱	zhuang bei mu ban xiang	1
+装备图鉴	zhuang bei tu jian	1
+装备原件	zhuang bei yuan jian	1
+装备原件机	zhuang bei yuan jian ji	1
+装备制造	zhuang bei zhi zao	1
+装备制造工艺	zhuang bei zhi zao gong yi	1
+庄方宜	zhuang fang yi	1
+装饰物品	zhuang shi wu pin	1
+状态消耗	zhuang tai xiao hao	1
+装箱运送	zhuang xiang yun song	1
+装卸区	zhuang xie qu	1
+装卸区下方	zhuang xie qu xia fang	1
+追袭	zhui xi	1
+锥心之棘	zhui xin zhi ji	1
+追忆之旅	zhui yi zhi lv	1
+坠玉盘	zhui yu pan	1
+追罪之人	zhui zui zhi ren	1
+斫痕	zhuo hen	1
+灼壳虫	zhuo ke chong	1
+浊流具现	zhuo liu ju xian	1
+浊流切割炬	zhuo liu qie ge ju	1
+浊流天使	zhuo liu tian shi	1
+捉摸不定	zhuo mo bu ding	1
+灼热	zhuo re	1
+灼热爆发	zhuo re bao fa	1
+灼热弹痕	zhuo re dan hen	1
+灼热附着	zhuo re fu zhuo	1
+灼热獠牙	zhuo re liao ya	1
+灼热伤害	zhuo re shang hai	1
+灼痛疤痕	zhuo tong ba hen	1
+灼铜块	zhuo tong kuai	1
+灼铜零件	zhuo tong ling jian	1
+灼铜装备原件	zhuo tong zhuang bei yuan jian	1
+灼心	zhuo xin	1
+自动化改良	zi dong hua gai liang	1
+自动喷气装置	zi dong pen qi zhuang zhi	1
+紫晶粉末	zi jing fen mo	1
+紫晶矿	zi jing kuang	1
+紫晶零件	zi jing ling jian	1
+紫晶纤维	zi jing xian wei	1
+紫晶质瓶	zi jing zhi ping	1
+紫晶装备原件	zi jing zhuang bei yuan jian	1
+自拍邀请	zi pai yao qing	1
+自然	zi ran	1
+自然爆发	zi ran bao fa	1
+自然附着	zi ran fu zhuo	1
+自然伤害	zi ran shang hai	1
+自然资源	zi ran zi yuan	1
+自选调用凭证	zi xuan diao yong ping zheng	1
+自研赤霄剑	zi yan chi xiao jian	1
+资源回收奖章	zi yuan hui shou jiang zhang	1
+资源回收站	zi yuan hui shou zhan	1
+资源开采	zi yuan kai cai	1
+自制酱料	zi zhi jiang liao	1
+综合科研区	zong he ke yan qu	1
+总控升级奖章	zong kong sheng ji jiang zhang	1
+总控中枢	zong kong zhong shu	1
+总控中心	zong kong zhong xin	1
+总相宜	zong xiang yi	1
+总桩	zong zhuang	1
+总桩办公室	zong zhuang ban gong shi	1
+祖泉	zu quan	1
+祖泉泉源	zu quan quan yuan	1
+最后的苏醒	zui hou de su xing	1
+作品众生	zuo pin zhong sheng	1
+作战记录	zuo zhan ji lu	1

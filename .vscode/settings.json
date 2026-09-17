@@ -1,3 +1,12 @@
 {
-    "explorer.excludeGitIgnore": true
+    "explorer.excludeGitIgnore": true,
+    // 编辑器字体链：主字体 Consolas，中文按 SimSun → Microsoft YaHei 回退，
+    // emoji 由 Noto Color Emoji 渲染（国旗、Unicode 17+ 新 emoji 均正常）。
+    // 注意：不要加 'Segoe UI Emoji'——经实测会让国旗显示异常
+    "editor.fontFamily": "'Consolas','SimSun', 'Microsoft YaHei','Noto Color Emoji'",
+    // JS/TS 文件使用 2 空格缩进（detectIndentation 关闭，避免按文件内容自动覆盖）
+    "[javascript]": {
+        "editor.insertSpaces": true,
+        "editor.detectIndentation": false
+    }
 }

@@ -9,6 +9,7 @@
  *   node scripts/deploy-rime.mjs
  *   node scripts/deploy-rime.mjs --deploy           # 覆写后自动重新部署
  *   node scripts/deploy-rime.mjs --dry-run          # 预览模式，不实际写入
+ *   node scripts/deploy-rime.mjs --pull-words       # 部署前将用户词表反拷回仓库（便于 git 版本化）
  *   node scripts/deploy-rime.mjs --target /path     # 指定目标目录
  *
  * 默认目标:
@@ -86,7 +87,25 @@ const PROTECTED = new Set(["installation.yaml", "user.yaml", "build"]);
 function isProtected(entry) {
   if (PROTECTED.has(entry)) return true;
   if (entry.endsWith(".userdb")) return true;
+  if (entry.endsWith(".gram")) return true;
   return false;
+}
+
+/**
+ * 用户词表文件：输入法运行时（Ctrl+D 删词 / Ctrl+X 隐藏 / Ctrl+J 降频）
+ * 会把积累的词条写回 lua/cold_word_drop/*.lua（见 processor.lua 的 write_word_to_file）。
+ * 目标端已有的这些文件代表用户数据，部署时既不覆盖也不清理，防止数据丢失。
+ */
+const WORD_FILES = new Set([
+  "lua/cold_word_drop/drop_words.lua",
+  "lua/cold_word_drop/hide_words.lua",
+  "lua/cold_word_drop/reduce_freq_words.lua",
+  "lua/cold_word_drop/turn_down_words.lua",
+]);
+
+/** 判断相对路径是否属于用户词表文件 */
+function isWordFile(relPath) {
+  return WORD_FILES.has(relPath.replaceAll("\\", "/"));
 }
 
 /* ── 核心逻辑 ─────────────────────────────── */
@@ -113,6 +132,16 @@ function copyDir(srcDir, destDir, dryRun) {
   for (const entry of fs.readdirSync(srcDir)) {
     const srcPath = path.join(srcDir, entry);
     const destPath = path.join(destDir, entry);
+    // 用户词表文件：目标已存在说明积累了用户数据，跳过覆盖
+    // 注意：用仓库侧的 srcPath 计算相对路径——destPath 在 Windows 上可能与仓库跨盘。
+    if (
+      !fs.statSync(srcPath).isDirectory() &&
+      isWordFile(path.relative(REPO_ROOT, srcPath)) &&
+      fs.existsSync(destPath)
+    ) {
+      log(`  - 保留用户词表（跳过覆盖）: ${path.relative(REPO_ROOT, srcPath)}`);
+      continue;
+    }
     if (fs.statSync(srcPath).isDirectory()) {
       copyDir(srcPath, destPath, dryRun);
     } else {
@@ -121,22 +150,28 @@ function copyDir(srcDir, destDir, dryRun) {
   }
 }
 
-/** 清理目标目录中源目录已不存在的文件/目录（跳过 PROTECTED） */
-function cleanTarget(srcDir, tgtDir, dryRun) {
+/** 清理目标目录中源目录已不存在的文件/目录（跳过 PROTECTED），tgtBase 为最终目标根目录（用于跨盘符相对路径） */
+function cleanTarget(srcDir, tgtDir, dryRun, tgtBase = null) {
+  if (!tgtBase) tgtBase = tgtDir;
   let removed = 0;
   for (const entry of fs.readdirSync(tgtDir)) {
+    const srcPath = path.join(srcDir, entry);
+    const tgtPath = path.join(tgtDir, entry);
     if (isProtected(entry)) {
       log(`  - 跳过保护条目: ${entry}`);
       continue;
     }
-    const srcPath = path.join(srcDir, entry);
-    const tgtPath = path.join(tgtDir, entry);
+    // 用户词表文件：防止源目录已删除对应文件时把用户的积累数据一并清理
+    if (isWordFile(path.relative(tgtBase, tgtPath))) {
+      log(`  - 保留用户词表: ${path.relative(tgtBase, tgtPath)}`);
+      continue;
+    }
     const isDir = fs.statSync(tgtPath).isDirectory();
 
     // 递归清理：目标存在子目录且源也有同名目录 → 深入清理
     if (isDir && fs.existsSync(srcPath) && fs.statSync(srcPath).isDirectory()) {
       log(`  ~ 扫描目录: ${entry}/`);
-      removed += cleanTarget(srcPath, tgtPath, dryRun);
+      removed += cleanTarget(srcPath, tgtPath, dryRun, tgtBase);
       continue;
     }
 
@@ -166,6 +201,7 @@ async function main() {
   const args = process.argv.slice(2);
   const dryRun = args.includes("--dry-run");
   const doDeploy = args.includes("--deploy");
+  const doPullWords = args.includes("--pull-words");
 
   const targetRawIdx = args.indexOf("--target");
   let targetDir;
@@ -190,8 +226,29 @@ async function main() {
 
   console.log(`源目录: ${REPO_ROOT}`);
   console.log(`目标目录: ${targetDir}`);
-  console.log(`模式: ${dryRun ? "预览 (dry-run)" : "覆写 + 清理"}`);
+  console.log(`模式: ${dryRun ? "预览 (dry-run)" : "覆写 + 清理"}${doPullWords ? " + 反拷用户词表" : ""}`);
   console.log("");
+
+  // 先把用户词表反拷回仓库（可选），保证 git 能记录删词/隐藏词的变化
+  if (doPullWords) {
+    log("── 反拷用户词表 ──");
+    for (const rel of WORD_FILES) {
+      const src = path.join(targetDir, rel);
+      const dest = path.join(REPO_ROOT, rel);
+      if (!fs.existsSync(src)) {
+        log(`  - 用户词表不存在，跳过: ${rel}`);
+        continue;
+      }
+      if (dryRun) {
+        log(`  ← ${rel}  →  ${path.relative(REPO_ROOT, dest)}`);
+        continue;
+      }
+      fs.mkdirSync(path.dirname(dest), { recursive: true });
+      fs.copyFileSync(src, dest);
+      log(`  ← ${rel}`);
+    }
+    console.log("");
+  }
 
   // 先清理目标目录中已不存在的文件
   log("── 清理目标目录 ──");

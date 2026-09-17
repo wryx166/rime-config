@@ -32,6 +32,13 @@ import_tables:
   - cn_dicts/arknights/an_branch       # 分支
   - cn_dicts/arknights/an_item         # 物品
   - cn_dicts/arknights/an_material     # 材料
+  - cn_dicts/endfield/明日方舟：终末地   # 明日方舟：终末地（搜狗细胞词库转换）
+
+  # ── 原神词库 ──
+  - cn_dicts/genshin impact/原神词词汇大全2026
+
+  # ── 星穹铁道词库 ──
+  - cn_dicts/star rail/星穹铁道角色
 ...
 
 # 按需启用：
