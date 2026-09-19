@@ -15,3 +15,8 @@ patch:
   # 方案选单默认展开所有方案，设为 false 可折叠
   switcher/fold_options: false
   ascii_composer/switch_key/Shift_R: commit_code
+
+  # ── 输入栏光标 ──
+  # default.yaml 的 navigator 把 ←/→ 绑成了逐字符移动（left_by_char_no_loop），
+  # 这里只把 ← 改成按音节跳转：输入 nihao 后按一次 ← 停在 ni|hao；→ 仍逐字符。
+  navigator/bindings/Left: left_by_syllable_no_loop
